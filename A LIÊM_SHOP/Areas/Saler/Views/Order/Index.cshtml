@@ -1,0 +1,57 @@
+﻿@model IEnumerable<A_LIÊM_SHOP.Models.Order>
+
+@{
+	ViewBag.Title = "Order";
+}
+
+<div class="listright">
+	<h2>Manager Order</h2>
+
+
+	<table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Phone</th>
+                <th scope="col">Address</th>
+                <th scope="col">Order Date</th>
+                <th scope="col">Total</th>
+                <th scope="col">Status</th>
+                <th scope="col">Detail</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.Name
+                    </td>
+                    <td>
+                        @item.Phone
+                    </td>
+                    <td>
+                        @item.Address
+                    </td>
+                    <td>
+                        @item.OrderDate
+                    </td>
+                    <td>
+                        <h5>$@item.TotalAmountBefore</h5>
+                    </td>
+                    <td>
+                        @item.OrderStatus
+                    </td>
+                    <td>
+                        <a asp-action="Detail" asp-controller="Order" asp-area="Saler" asp-route-id="@item.Id">
+                            <button class="btn btn-primary">Detail</button>
+                        </a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+
+	</table>
+
+</div>
