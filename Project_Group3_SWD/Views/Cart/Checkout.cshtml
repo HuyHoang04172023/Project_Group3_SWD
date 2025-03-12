@@ -110,11 +110,13 @@
                                             }
                         </ul>
                         <ul class="list list_2">
-                                <li><a href="#">Total <span id="shippingFee"></span></a></li>
+                            <li><a href="#">Shipping Fee <span id="shippingFee"></span></a></li>
 
-                            <li><a href="#">Total <span id="totalProduct">$@String.Format("{0:0.00}", total)</span></a></li>
+                            <li><a href="#">Total Product<span>$@String.Format("{0:0.00}", total)</span></a></li>
+                            <li><a href="#">Total <span id="total"></span></a></li>
+
                         </ul>
-             
+                            <input type="hidden" id="totalProduct" value="@(total)" />
 
                         <div class="text-center">
                             <button class="button button-paypal" type="submit">Checkout</button>
@@ -303,6 +305,10 @@
                 var toDistrictId = $('#district_to').val();
                 var toWardCode = $('#ward_to').val();
                 var serviceId = $('#services').val();
+                var totalProduct = $('#totalProduct').val();
+                console.log("totalProduct",totalProduct);
+                var total = $('#total').val();
+
 
                 if (shopId && fromDistrictId && toDistrictId && toWardCode && serviceId) {
                     $.ajax({
@@ -316,22 +322,22 @@
                             serviceId: serviceId
                         },
                         success: function(data) {
-                            console.log("Data Shipping", data);
                             var totalVND = data && data.total ? data.total : 0; // Lấy total, mặc định là 0 nếu không có
                             var exchangeRate = 24000; // Tỷ giá cố định: 1 USD = 24,000 VND
                             var totalUSD = (totalVND / exchangeRate).toFixed(2); // Chuyển đổi sang USD và làm tròn 2 chữ số thập phân
 
                             $('#shippingFee').text(totalUSD + ' $'); // Hiển thị số tiền bằng USD
+                            $('#total').text((Number(totalUSD) + Number(totalProduct)).toFixed(2) + ' $'); // Hiển thị số tiền bằng USD
                             $('#feeContainer').show();
                         },
                         error: function(xhr, status, error) {
                             console.log('Error loading shipping fee:', error);
-                            $('#shippingFee').text('0 VND');
+                            $('#shippingFee').text('0 $');
                             $('#feeContainer').hide();
                         }
                     });
                 } else {
-                    $('#shippingFee').text('0 VND');
+                    $('#shippingFee').text('0 $');
                     $('#feeContainer').hide();
                 }
             });
