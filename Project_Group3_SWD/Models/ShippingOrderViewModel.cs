@@ -15,12 +15,4 @@
         public string PaymentMethod { get; set; }
         public List<ItemViewModel> Items { get; set; }
     }
-
-    public class ItemViewModel
-    {
-        public string Name { get; set; }
-        public int Quantity { get; set; }
-        public decimal Price { get; set; }
-    }
-
 }

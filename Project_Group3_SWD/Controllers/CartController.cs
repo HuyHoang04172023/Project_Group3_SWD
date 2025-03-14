@@ -177,25 +177,40 @@ namespace A_LIÊM_SHOP.Controllers
 
             List<Item> cart = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
 
-            var items = cart.Select(item => new
+            List<ItemViewModel> items = cart.Select(item => new ItemViewModel
             {
-                name = item.Product.Name,
-                quantity = item.Quantity,
-                price = item.Product.Price,
-                weight = 200
-            }).ToArray();
+                Name = item.Product.Name,
+                Quantity = item.Quantity,
+                Price = (int)item.Product.Price,
+                Weight = 200
+            }).ToList();
             foreach (var item in items)
             {
-                Console.WriteLine($"Tên: {item.name}, Số lượng: {item.quantity}, Giá: {item.price}");
+                Console.WriteLine($"Tên: {item.Name}, Số lượng: {item.Quantity}, Giá: {item.Price}");
             }
             ViewBag.items = items;
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateShippingOrder(string from_name, string from_phone, string from_address, string to_name, string to_phone, string to_address, string to_ward_code, int to_district_id, int cod_amount, int service_id)
+        public async Task<IActionResult> CreateShippingOrder(string from_name, string from_phone, string from_address, 
+            string to_name, string to_phone, string to_address, string to_ward_code, 
+            int to_district_id, int cod_amount, int service_id)
         {
-            var orderJson = await _ghnService.CreateShippingOrderAsync(from_name, from_phone,from_address,to_name,to_phone,to_address,to_ward_code,to_district_id,cod_amount,service_id);
+
+            List<Item> cart = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
+
+            List<ItemViewModel> items = cart.Select(item => new ItemViewModel
+            {
+                Name = item.Product.Name,
+                Quantity = item.Quantity,
+                Price = (int)item.Product.Price,
+                Weight = 200
+            }).ToList();
+
+            var orderJson = await _ghnService.CreateShippingOrderAsync(from_name, from_phone,from_address,
+                to_name,to_phone,to_address,to_ward_code,to_district_id,
+                cod_amount,service_id, items);
             if (orderJson["code"]?.ToObject<int>() == 200)
             {
                 return Ok(new { message = "Order created successfully", order_code = orderJson["data"]?["order_code"] });

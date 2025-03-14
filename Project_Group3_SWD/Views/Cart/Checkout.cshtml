@@ -1,4 +1,4 @@
-﻿@model A_LIÊM_SHOP.Models.ShippingOrderViewModel
+﻿
 
 @{
     ViewBag.Title = "Checkout";
@@ -77,9 +77,9 @@
                 @foreach (var item in ViewBag.items)
                 {
                     <tr>
-                        <td>@item.name</td>
-                        <td>@item.quantity</td>
-                        <td>@item.price</td>
+                        <td>@item.Name</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price</td>
                     </tr>
                 }
             </tbody>

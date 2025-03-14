@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using A_LIÊM_SHOP.Models;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
@@ -152,19 +153,11 @@ namespace A_LIÊM_SHOP.Proxy
             }
         }
 
-        public async Task<JObject> CreateShippingOrderAsync(string from_name, string from_phone, string from_address, string to_name, 
-            string to_phone, string to_address, string to_ward_code, int to_district_id, int cod_amount, int service_id)
+        public async Task<JObject> CreateShippingOrderAsync(string from_name, string from_phone, 
+            string from_address, string to_name, 
+            string to_phone, string to_address, string to_ward_code, 
+            int to_district_id, int cod_amount, int service_id, List<ItemViewModel> items)
         {
-            Console.WriteLine(from_name);
-            Console.WriteLine(from_phone);
-            Console.WriteLine(from_address);
-            Console.WriteLine(to_name);
-            Console.WriteLine(to_phone);
-            Console.WriteLine(to_address);
-            Console.WriteLine(to_ward_code);
-            Console.WriteLine(to_district_id);
-            Console.WriteLine(cod_amount);
-            Console.WriteLine(service_id);
 
             try
             {
@@ -184,10 +177,17 @@ namespace A_LIÊM_SHOP.Proxy
                     weight = 200,
                     service_id = service_id,
                     service_type_id = 2,
-                    items = new[]
+                    items = items.Select(item => new
                     {
-                        new { name = "Product 1", quantity = 1, price = 100000, weight = 200 }
-                    },
+                        name = item.Name,
+                        quantity = item.Quantity,
+                        price = item.Price,
+                        weight = item.Weight 
+                    }).ToArray(),
+                    //items = new[]
+                    //{
+                    //    new { name = "Product 1", quantity = 1, price = 100000, weight = 200 }
+                    //},
                 };
 
                 var content = new StringContent(Newtonsoft.Json.JsonConvert.SerializeObject(requestData), Encoding.UTF8, "application/json");
@@ -198,6 +198,7 @@ namespace A_LIÊM_SHOP.Proxy
             }
             catch (Exception ex)
             {
+                Console.WriteLine(ex);
                 return new JObject();
             }
         }
