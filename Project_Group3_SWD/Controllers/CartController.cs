@@ -1,4 +1,6 @@
-﻿using A_LIÊM_SHOP.Extensions;
+﻿using System.Net;
+using System.Security.Cryptography.Xml;
+using A_LIÊM_SHOP.Extensions;
 using A_LIÊM_SHOP.Models;
 using A_LIÊM_SHOP.Proxy;
 using A_LIÊM_SHOP.Repositories;
@@ -81,7 +83,7 @@ namespace A_LIÊM_SHOP.Controllers
         
 
         [HttpGet]
-		public IActionResult Checkout()
+		public IActionResult Confirm()
 		{
 			var shoppingCart = HttpContext.Session.GetObjectFromSession<List<Item>>("cart") ?? new List<Item>();
             // Calculate the total price of items in the cart
@@ -96,9 +98,10 @@ namespace A_LIÊM_SHOP.Controllers
             ViewBag.Cart = shoppingCart;
             return View();
 		}
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Checkout(OrderViewModel orderView)
+        public IActionResult Confirm(OrderViewModel orderView)
         {
             if (ModelState.IsValid)
             {
@@ -134,6 +137,70 @@ namespace A_LIÊM_SHOP.Controllers
                 TempData["ErrorMessage"] = "Order failed! Please check your information.";
                 return RedirectToAction("Checkout");
             }
+        }
+        public int ConvertUsdToVnd(float codAmountUsd, float exchangeRate = 24000f)
+        {
+            return (int)Math.Round(codAmountUsd * exchangeRate);
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> CheckoutAsync(string to_name, string to_phone, string to_address,
+            string to_ward_code, int to_district_id, 
+            float cod_amount,int service_id, string payment_method)
+        {
+
+            if(payment_method == "online-payment")
+            {
+                //Lam VnPay
+            }
+
+            if (payment_method == "bank-transfer")
+            {
+                //Lam PayOS
+            }
+            
+
+            var shopsJson = await _ghnService.GetShopsAsync();
+            var shops = shopsJson["data"]?["shops"]?.ToObject<List<ShopModel>>() ?? new List<ShopModel>();
+            ViewBag.from_name = shops[0].Name;
+            ViewBag.from_phone = shops[0].Phone;
+            ViewBag.from_address = shops[0].Address;
+            ViewBag.to_name = to_name;
+            ViewBag.to_phone = to_phone;
+            ViewBag.to_address = to_address;
+            ViewBag.to_ward_code = to_ward_code;
+            ViewBag.to_district_id = to_district_id;
+            ViewBag.cod_amount = ConvertUsdToVnd(cod_amount);
+            ViewBag.service_id = service_id;
+            ViewBag.payment_method = payment_method;
+
+            List<Item> cart = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
+
+            var items = cart.Select(item => new
+            {
+                name = item.Product.Name,
+                quantity = item.Quantity,
+                price = item.Product.Price,
+                weight = 200
+            }).ToArray();
+            foreach (var item in items)
+            {
+                Console.WriteLine($"Tên: {item.name}, Số lượng: {item.quantity}, Giá: {item.price}");
+            }
+            ViewBag.items = items;
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateShippingOrder(string from_name, string from_phone, string from_address, string to_name, string to_phone, string to_address, string to_ward_code, int to_district_id, int cod_amount, int service_id)
+        {
+            var orderJson = await _ghnService.CreateShippingOrderAsync(from_name, from_phone,from_address,to_name,to_phone,to_address,to_ward_code,to_district_id,cod_amount,service_id);
+            if (orderJson["code"]?.ToObject<int>() == 200)
+            {
+                return Ok(new { message = "Order created successfully", order_code = orderJson["data"]?["order_code"] });
+            }
+            return BadRequest(new { message = "Failed to create order", error = orderJson["message"] });
         }
     }
 }
