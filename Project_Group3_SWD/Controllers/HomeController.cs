@@ -1,9 +1,9 @@
-using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Services;
+using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace A_LIÊM_SHOP.Controllers
+namespace Project_Group3_SWD.Controllers
 {
     public class HomeController : Controller
     {

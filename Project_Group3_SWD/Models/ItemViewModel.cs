@@ -1,4 +1,4 @@
-﻿namespace A_LIÊM_SHOP.Models
+﻿namespace Project_Group3_SWD.Models
 {
     public class ItemViewModel
     {

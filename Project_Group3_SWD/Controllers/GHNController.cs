@@ -1,9 +1,9 @@
-﻿using A_LIÊM_SHOP.Proxy;
-using A_LIÊM_SHOP.Services;
-using A_LIÊM_SHOP.ViewModels;
+﻿using Project_Group3_SWD.Proxy;
+using Project_Group3_SWD.Services;
+using Project_Group3_SWD.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace A_LIÊM_SHOP.Controllers
+namespace Project_Group3_SWD.Controllers
 {
     public class GHNController : Controller
     {

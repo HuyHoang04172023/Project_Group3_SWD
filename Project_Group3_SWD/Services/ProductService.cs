@@ -1,10 +1,10 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Repositories;
-using A_LIÊM_SHOP.ViewModels;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Repositories;
+using Project_Group3_SWD.ViewModels;
 using Microsoft.Data.SqlClient;
 using System.Drawing.Drawing2D;
 
-namespace A_LIÊM_SHOP.Services
+namespace Project_Group3_SWD.Services
 {
     public class ProductService : IProductService
     {

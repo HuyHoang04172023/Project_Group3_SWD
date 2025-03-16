@@ -1,7 +1,7 @@
-﻿using A_LIÊM_SHOP.Models;
+﻿using Project_Group3_SWD.Models;
 using X.PagedList;
 
-namespace A_LIÊM_SHOP.ViewModels
+namespace Project_Group3_SWD.ViewModels
 {
     public class BlogViewModel
     {

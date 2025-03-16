@@ -1,4 +1,4 @@
-﻿using A_LIÊM_SHOP.Models;
+﻿using Project_Group3_SWD.Models;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace A_LIÊM_SHOP.Proxy
+namespace Project_Group3_SWD.Proxy
 {
     public class GHNService
     {

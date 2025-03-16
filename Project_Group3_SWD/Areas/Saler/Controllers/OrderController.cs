@@ -1,12 +1,12 @@
-﻿using A_LIÊM_SHOP.Extensions;
-using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Services;
+﻿using Project_Group3_SWD.Extensions;
+using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using System.Drawing.Drawing2D;
 using X.PagedList.Extensions;
 
-namespace A_LIÊM_SHOP.Areas.Saler.Controllers
+namespace Project_Group3_SWD.Areas.Saler.Controllers
 {
     [Area("Saler")]
     public class OrderController : Controller

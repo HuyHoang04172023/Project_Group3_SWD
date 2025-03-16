@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using A_LIÊM_SHOP.Models;
+using Project_Group3_SWD.Models;
 
-namespace A_LIÊM_SHOP.Areas.Admin.Controllers
+namespace Project_Group3_SWD.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class ProductController : Controller

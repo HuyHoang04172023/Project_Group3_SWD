@@ -1,8 +1,8 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Repositories;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Repositories;
 using Microsoft.EntityFrameworkCore;
 
-namespace A_LIÊM_SHOP.Services
+namespace Project_Group3_SWD.Services
 {
     public class BlogService : IBlogService
     {
