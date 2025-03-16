@@ -14,8 +14,8 @@ namespace Project_Group3_SWD.Proxy
     public class GHNService
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiToken = "fa19bc40-fc2a-11ef-82e7-a688a46b55a3";
-        private readonly string _shopId = "196112";
+        private readonly string _apiToken = "acda664f-f3f6-11ef-bb13-2a342a4da1fb";
+        private readonly string _shopId = "196050";
 
         public GHNService()
         {

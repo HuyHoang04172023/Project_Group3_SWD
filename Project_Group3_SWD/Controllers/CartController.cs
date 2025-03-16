@@ -220,27 +220,7 @@ namespace Project_Group3_SWD.Controllers
 			string to_name, string to_phone, string to_address, string to_ward_code,
 			int to_district_id, int cod_amount, int service_id)
 		{
-			User u = HttpContext.Session.GetObjectFromSession<User>("user");
-			if (u != null)
-			{
-				Order order = new Order();
-				order.UserId = u.Id;
-				List<Item> cartUser = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
-				order.TotalAmountBefore = Math.Round((decimal)cartUser.Sum(x => x.Quantity * x.Product.Price), 2);
-				order.OrderDate = DateTime.Now;
-				order.PaymentMethod = "COD";
-				order.OrderStatus = "Processing";
-				order.Name = to_name;
-				order.Address = to_address;
-				order.Phone = to_phone;
-
-				_orderService.AddOrder(order, cartUser);
-				_productService.reduceQuantity(cartUser);
-			}
-			else
-			{
-				return RedirectToAction("Login", "Auth");
-			}
+			
 
 			List<Item> cart = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
 
@@ -257,13 +237,33 @@ namespace Project_Group3_SWD.Controllers
 				cod_amount, service_id, items);
 			if (orderJson["code"]?.ToObject<int>() == 200)
 			{
-				HttpContext.Session.Remove("cart");
+                User u = HttpContext.Session.GetObjectFromSession<User>("user");
+                if (u != null)
+                {
+                    Order order = new Order();
+                    order.UserId = u.Id;
+                    List<Item> cartUser = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
+                    order.TotalAmountBefore = Math.Round((decimal)cartUser.Sum(x => x.Quantity * x.Product.Price), 2);
+                    order.OrderDate = DateTime.Now;
+                    order.PaymentMethod = "COD";
+                    order.OrderStatus = "Processing";
+                    order.Name = to_name;
+                    order.Address = to_address;
+                    order.Phone = to_phone;
+					order.OrderCode = orderJson["data"]["order_code"].ToObject<string>();
 
-				TempData["SuccessMessage"] = "Order successful!";
-				return Redirect("/");
-
-			}
-			return BadRequest(new { message = "Failed to create order", error = orderJson["message"] });
+                    _orderService.AddOrder(order, cartUser);
+                    _productService.reduceQuantity(cartUser);
+                    HttpContext.Session.Remove("cart");
+                    TempData["SuccessMessage"] = "Order successful!";
+                    return Redirect("/");
+                }
+                else
+                {
+                    return RedirectToAction("Login", "Auth");
+                }
+            }
+            return BadRequest(new { message = "Failed to create order", error = orderJson["message"] });
 		}
 
 		[HttpGet]
