@@ -1,4 +1,5 @@
 ﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Proxy;
 using Project_Group3_SWD.Repositories;
 using Project_Group3_SWD.Services;
 using Microsoft.EntityFrameworkCore;
@@ -32,6 +33,8 @@ builder.Services.AddScoped<IBrandService, BrandService>();
 
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IVnPayService, VnPayService>();
+builder.Services.AddScoped<GHNService>();
 builder.Services.AddScoped<IGHNService, GHNService>();
 
 builder.Services.AddScoped<IOrderDetailsRepository, OrderDetailsRepository>();
