@@ -1,0 +1,72 @@
+﻿@using Project_Group3_SWD.ViewModels;
+@{
+    OrderGHNViewModel item = ViewBag.Order as OrderGHNViewModel ?? new OrderGHNViewModel();
+}
+<!-- ================ start banner area ================= -->
+<section class="blog-banner-area" id="category">
+    <div class="container h-100">
+        <div class="blog-banner">
+            <div class="text-center">
+                <h1>Order History</h1>
+                <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="~/">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Order History</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ end banner area ================= -->
+<!--================Cart Area =================-->
+<section class="cart_area">
+    <div class="container">
+        <div class="cart_inner">
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.ToName</h5>
+                        <p class="card-text"><strong>Phone:</strong> @item.ToPhone</p>
+                        <p class="card-text"><strong>Address:</strong> @item.ToAddress</p>
+                        <p class="card-text"><strong>Created:</strong> @item.CreateDate.ToString("dd/MM/yyyy")</p>
+                        <p class="card-text"><strong>COD Amount:</strong> <span class="text-success">$@item.CodAmount</span></p>
+                        <p class="card-text"><strong>Status:</strong> <span class="badge bg-info">@item.Status</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Name</th>
+                            <th scope="col">Code</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col">Weight</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var product in item.ProductGHNs)
+                        {
+                            <tr>
+                                <td>
+                                    @product.Name
+                                </td>
+                                <td>
+                                    @product.Code
+                                </td>
+                                <td>
+                                    @product.Quantity
+                                </td>
+                                <td>
+                                    @product.Weight
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Cart Area =================-->

@@ -1,0 +1,22 @@
+# Thư mục build và Visual Studio
+.vs/
+bin/
+obj/
+
+# Các file tạm của Visual Studio
+*.user
+*.suo
+*.cache
+*.pdb
+*.ilk
+*.log
+
+# Các file build
+*.exe
+*.dll
+*.pdb
+*.o
+*.a
+*.lib
+*.so
+*.out

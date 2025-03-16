@@ -1,0 +1,76 @@
+﻿@using Project_Group3_SWD.ViewModels
+@model Project_Group3_SWD.ViewModels.OrderViewModel
+@{
+    ViewData["Title"] = "Checkout Page";
+}
+<!-- ================ start banner area ================= -->
+<section class="blog-banner-area" id="category">
+    <div class="container h-100">
+        <div class="blog-banner">
+            <div class="text-center">
+                <h1>Product Checkout</h1>
+                <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="~/">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Checkout</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ end banner area ================= -->
+<!--================Checkout Area =================-->
+<section class="checkout_area section-margin--small">
+    <div class="container">
+        
+        <div class="billing_details">
+            <form asp-controller="Cart" asp-action="Checkout" method="post">
+            <div class="row">
+                <div class="col-lg-8">
+                    <h3>Billing Details</h3>
+                        <div class="col-md-12 form-group p_star">
+                            <input type="text" class="form-control" id="first" asp-for="Name" placeholder="Name">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <input type="text" class="form-control" id="company" asp-for="Address" placeholder="Address">
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group p_star">
+                            <input type="text" class="form-control" id="number" asp-for="Phone" placeholder="Phone number">
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="order_box">
+                        <h2>Your Order</h2>
+                        <ul class="list">
+                            <li><a href="#"><h4>Product <span>Total</span></h4></a></li>
+                            @{
+                                var cart = ViewBag.Cart as List<Item>;  // or IEnumerable<Item>
+                                var total = cart?.Sum(x => x.Quantity * x.Product.Price) ?? 0;
+                            }
+                            @foreach (var item in ViewBag.Cart)
+											{
+                                <li><a href="#">@item.Product.Name <span class="middle">x @item.Quantity</span> <span class="last">$@String.Format("{0:0.00}", item.Product.Price * item.Quantity)</span></a></li>
+                                            }
+                        </ul>
+                        <ul class="list list_2">
+                            <li><a href="#">Total <span>$@String.Format("{0:0.00}", total)</span></a></li>
+                        </ul>
+             
+
+                        <div class="text-center">
+                            <button class="button button-paypal" type="submit">Checkout</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+        </div>
+
+    </div>
+</section>
+<!--================End Checkout Area =================-->
