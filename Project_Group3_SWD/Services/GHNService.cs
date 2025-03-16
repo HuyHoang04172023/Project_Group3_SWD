@@ -38,16 +38,40 @@ namespace Project_Group3_SWD.Services
 					DateTime finishDate = DateTime.Parse(createDate);
 					results.Add(new OrderGHNViewModel
 					{
-						OrderCode = item.GetProperty("order_code").GetString() ?? "",
+						OrderCode = item.TryGetProperty("order_code", out var orderCodeProp) && orderCodeProp.ValueKind != JsonValueKind.Undefined
+				? orderCodeProp.GetString() ?? ""
+				: "",
+
 						CreateDate = createdDate,
 						FinishDate = finishDate,
-						ToName = item.GetProperty("to_name").GetString() ?? "",
-						ToPhone = item.GetProperty("to_phone").GetString() ?? "",
-						ToAddress = item.GetProperty("to_address").GetString() ?? "",
-						Status = item.GetProperty("status").ToString(),
-						CodAmount = item.GetProperty("cod_amount").GetDecimal(),
-						RequiredNote = item.GetProperty("required_note").GetString() ?? "",
-						ProductGHNs = GetProducts(item.GetProperty("items")) ?? new List<ProductGHNViewModel>()
+
+						ToName = item.TryGetProperty("to_name", out var toNameProp) && toNameProp.ValueKind != JsonValueKind.Undefined
+			  ? toNameProp.GetString() ?? ""
+			  : "",
+
+						ToPhone = item.TryGetProperty("to_phone", out var toPhoneProp) && toPhoneProp.ValueKind != JsonValueKind.Undefined
+			  ? toPhoneProp.GetString() ?? ""
+			  : "",
+
+						ToAddress = item.TryGetProperty("to_address", out var toAddressProp) && toAddressProp.ValueKind != JsonValueKind.Undefined
+				? toAddressProp.GetString() ?? ""
+				: "",
+
+						Status = item.TryGetProperty("status", out var statusProp) && statusProp.ValueKind != JsonValueKind.Undefined
+			 ? statusProp.ToString()
+			 : "",
+
+						CodAmount = item.TryGetProperty("cod_amount", out var codAmountProp) && codAmountProp.ValueKind != JsonValueKind.Undefined
+				? codAmountProp.GetDecimal()
+				: 0,
+
+						RequiredNote = item.TryGetProperty("required_note", out var requiredNoteProp) && requiredNoteProp.ValueKind != JsonValueKind.Undefined
+				   ? requiredNoteProp.GetString() ?? ""
+				   : "",
+
+						ProductGHNs = item.TryGetProperty("items", out var itemsProp) && itemsProp.ValueKind != JsonValueKind.Undefined
+				  ? GetProducts(itemsProp) ?? new List<ProductGHNViewModel>()
+				  : new List<ProductGHNViewModel>()
 					});
 				}
 			}
@@ -94,10 +118,21 @@ namespace Project_Group3_SWD.Services
 			{
 				results.Add(new ProductGHNViewModel
 				{
-					Name = item.GetProperty("name").GetString() ?? "",
-					Quantity = item.GetProperty("quantity").GetInt32(),
-					Code = item.GetProperty("code").GetString() ?? "",
-					Weight = item.GetProperty("weight").GetInt32()
+					Name = item.TryGetProperty("name", out var nameProp) && nameProp.ValueKind != JsonValueKind.Undefined
+		   ? nameProp.GetString() ?? ""
+		   : "",
+
+					Quantity = item.TryGetProperty("quantity", out var quantityProp) && quantityProp.ValueKind != JsonValueKind.Undefined
+			   ? quantityProp.GetInt32()
+			   : 0,
+
+					Code = item.TryGetProperty("code", out var codeProp) && codeProp.ValueKind != JsonValueKind.Undefined
+		   ? codeProp.GetString() ?? ""
+		   : "",
+
+					Weight = item.TryGetProperty("weight", out var weightProp) && weightProp.ValueKind != JsonValueKind.Undefined
+			 ? weightProp.GetInt32()
+			 : 0
 				});
 			}
 			return results;

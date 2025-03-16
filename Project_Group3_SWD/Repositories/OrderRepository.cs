@@ -119,9 +119,9 @@ namespace Project_Group3_SWD.Repositories
                      .FirstOrDefault(x => x.Id == id);
         }
 
-        public List<Order> GetByUserId(int userId)
+        public async  Task<List<Order>> GetByUserId(int userId)
         {
-            return _context.Orders.Where(o => o.UserId == userId).ToList();
+            return await _context.Orders.Where(o => o.UserId == userId).ToListAsync();
         }
 
         public void UpdateOrder(Order order)

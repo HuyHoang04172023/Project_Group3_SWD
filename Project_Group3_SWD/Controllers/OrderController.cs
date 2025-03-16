@@ -1,14 +1,14 @@
-﻿using Project_Group3_SWD.Extensions;
-using Project_Group3_SWD.Mapper;
-using Project_Group3_SWD.Models;
+﻿using Project_Group3_SWD.Models;
 using Project_Group3_SWD.Services;
 using Project_Group3_SWD.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Project_Group3_SWD.Extensions;
+
 
 namespace Project_Group3_SWD.Controllers
 {
 	[Controller]
-	[Route("order")]
+	[Route("Order")]
 	public class OrderController : Controller
 	{
 		private readonly IOrderService _orderService;
@@ -19,12 +19,14 @@ namespace Project_Group3_SWD.Controllers
 			_ghnService = ghnService;
 		}
 		[HttpGet]
-		[Route("index")]
+		[Route("Index")]
 		public async Task<IActionResult> GetAllOrder()
 		{
-			
-			List<OrderGHNViewModel> orders = await _ghnService.GetAllOrders();
-			ViewBag.Orders = orders;
+			User user = Extensions.SessionExtensions.GetObjectFromSession<User>(HttpContext.Session, "user");
+			List<Order> orders = await _orderService.GetByUserId(user.Id);
+			List<OrderGHNViewModel> orderGHN = await _ghnService.GetAllOrders();
+			List<OrderGHNViewModel> filterOrderGHN = orderGHN.Where(x => orders.Any(y => y.OrderCode == x.OrderCode)).ToList();
+			ViewBag.Orders = filterOrderGHN;
 			return View("~/Views/Order/Index.cshtml");
 		}
 		[HttpGet]
