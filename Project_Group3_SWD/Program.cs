@@ -34,16 +34,15 @@ builder.Services.AddScoped<IBrandService, BrandService>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IVnPayService, VnPayService>();
-builder.Services.AddScoped<GHNService>();
-builder.Services.AddScoped<IGHNService, GHNService>();
+builder.Services.AddScoped<Project_Group3_SWD.Proxy.GHNService>();
 
 builder.Services.AddScoped<IOrderDetailsRepository, OrderDetailsRepository>();
 builder.Services.AddScoped<IOrderDetailsService, OrderDetailsService>();
 
 // Thêm các dịch vụ khác cần thiết cho ứng dụng (MVC, Razor Pages, etc.)
 builder.Services.AddControllersWithViews();
-builder.Services.AddHttpClient<GHNService>();
-builder.Services.AddScoped<GHNService>();
+builder.Services.AddHttpClient<Project_Group3_SWD.Proxy.GHNService>();
+builder.Services.AddScoped<Project_Group3_SWD.Proxy.GHNService>();
 
 // Thêm Session
 builder.Services.AddDistributedMemoryCache();

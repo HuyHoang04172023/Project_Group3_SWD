@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Project_Group3_SWD.Proxy;
 
 
 namespace Project_Group3_SWD.Repositories

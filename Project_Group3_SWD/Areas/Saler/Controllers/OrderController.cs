@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using System.Drawing.Drawing2D;
 using X.PagedList.Extensions;
+using Project_Group3_SWD.Proxy;
 
 namespace Project_Group3_SWD.Areas.Saler.Controllers
 {
@@ -12,11 +13,11 @@ namespace Project_Group3_SWD.Areas.Saler.Controllers
 	public class OrderController : Controller
 	{
 		private readonly IOrderService _orderService;
-		private readonly IGHNService _ghnService;
-		public OrderController(IOrderService orderService, IGHNService ghnService)
+		private readonly GHNService _ghnService;
+		public OrderController(IOrderService orderService)
 		{
 			_orderService = orderService;
-			_ghnService = ghnService;
+			_ghnService = new GHNService();
 		}
 		public async Task<IActionResult> Index()
 		{

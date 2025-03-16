@@ -1,7 +1,7 @@
-﻿using A_LIÊM_SHOP.Libraries;
-using A_LIÊM_SHOP.ViewModels;
+﻿using Project_Group3_SWD.Libraries;
+using Project_Group3_SWD.ViewModels;
 
-namespace A_LIÊM_SHOP.Proxy
+namespace Project_Group3_SWD.Proxy
 {
     public class VnPayService : IVnPayService
     {

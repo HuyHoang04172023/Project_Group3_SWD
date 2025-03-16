@@ -3,6 +3,7 @@ using Project_Group3_SWD.Services;
 using Project_Group3_SWD.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Project_Group3_SWD.Extensions;
+using Project_Group3_SWD.Proxy;
 
 
 namespace Project_Group3_SWD.Controllers
@@ -12,21 +13,28 @@ namespace Project_Group3_SWD.Controllers
 	public class OrderController : Controller
 	{
 		private readonly IOrderService _orderService;
-		private readonly IGHNService _ghnService;
-		public OrderController(IOrderService orderService, IGHNService ghnService)
+		private readonly GHNService _ghnService;
+		public OrderController(IOrderService orderService)
 		{
 			_orderService = orderService;
-			_ghnService = ghnService;
+			_ghnService = new GHNService();
 		}
 		[HttpGet]
 		[Route("Index")]
 		public async Task<IActionResult> GetAllOrder()
 		{
 			User user = Extensions.SessionExtensions.GetObjectFromSession<User>(HttpContext.Session, "user");
-			List<Order> orders = await _orderService.GetByUserId(user.Id);
 			List<OrderGHNViewModel> orderGHN = await _ghnService.GetAllOrders();
-			List<OrderGHNViewModel> filterOrderGHN = orderGHN.Where(x => orders.Any(y => y.OrderCode == x.OrderCode)).ToList();
-			ViewBag.Orders = filterOrderGHN;
+			if (user != null && user.RoleId == 3)
+			{
+				List<Order> orders = await _orderService.GetByUserId(user.Id);
+				List<OrderGHNViewModel> filterOrderGHN = orderGHN.Where(x => orders.Any(y => y.OrderCode == x.OrderCode)).ToList();
+				ViewBag.Orders = filterOrderGHN;
+			}
+			else
+			{
+				ViewBag.Orders = orderGHN;
+			}
 			return View("~/Views/Order/Index.cshtml");
 		}
 		[HttpGet]
