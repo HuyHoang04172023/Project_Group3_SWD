@@ -1,27 +1,40 @@
-﻿using A_LIÊM_SHOP.Extensions;
-using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Services;
+﻿using Project_Group3_SWD.Extensions;
+using Project_Group3_SWD.Mapper;
+using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Services;
+using Project_Group3_SWD.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace A_LIÊM_SHOP.Controllers
+namespace Project_Group3_SWD.Controllers
 {
-    public class OrderController : Controller
-    {
-        private readonly IOrderService _orderService;
-        public OrderController(IOrderService orderService)
-        {
-            _orderService = orderService;
-        }
-        public IActionResult Index()
-        {
-            User u = HttpContext.Session.GetObjectFromSession<User>("user");
-            var orders = _orderService.GetByUserId(u.Id);
-            return View(orders);
-        }
-        public IActionResult Detail(int id = 0)
-        {
-            var order = _orderService.GetById(id);
-            return View(order);
-        }
-    }
+	[Controller]
+	[Route("order")]
+	public class OrderController : Controller
+	{
+		private readonly IOrderService _orderService;
+		private readonly IGHNService _ghnService;
+		public OrderController(IOrderService orderService, IGHNService ghnService)
+		{
+			_orderService = orderService;
+			_ghnService = ghnService;
+		}
+		[HttpGet]
+		[Route("index")]
+		public async Task<IActionResult> GetAllOrder()
+		{
+			
+			List<OrderGHNViewModel> orders = await _ghnService.GetAllOrders();
+			ViewBag.Orders = orders;
+			return View("~/Views/Order/Index.cshtml");
+		}
+		[HttpGet]
+		public async Task<IActionResult> Detail([FromQuery] string orderCode)
+		{
+			var order = await _ghnService.GetOrderDetailByOrderCode(orderCode);
+			ViewBag.Order = order;
+			return View("~/Views/Order/Detail.cshtml");
+		}
+
+
+	}
 }

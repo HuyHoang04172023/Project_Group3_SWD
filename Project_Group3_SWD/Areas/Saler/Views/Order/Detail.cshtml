@@ -1,54 +1,72 @@
-﻿
-@model Order
+﻿@using Project_Group3_SWD.ViewModels;
 @{
-    ViewBag.Title = "Order";
+    OrderGHNViewModel item = ViewBag.Order as OrderGHNViewModel ?? new OrderGHNViewModel();
 }
-
-<div class="listright">
-    <h2>Manager Order</h2>
-    <div style="margin-bottom:16px">
-        @if(Model.OrderStatus == "Processing"){
-        <a class="btn btn-primary" asp-area="Saler" asp-controller="Order" asp-action="UpdateStatus" asp-route-id="@Model.Id" asp-route-status="1">Completed</a>
-        <a class="btn btn-danger" asp-area="Saler" asp-controller="Order" asp-action="UpdateStatus" asp-route-id="@Model.Id" asp-route-status="0">Canceled</a>
-        }
-        <a class="btn btn-success" asp-area="Saler" asp-controller="Order" asp-action="Index">Back</a>
+<!-- ================ start banner area ================= -->
+<section class="blog-banner-area" id="category">
+    <div class="container h-100">
+        <div class="blog-banner">
+            <div class="text-center">
+                <h1>Order History</h1>
+                <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="~/">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Order History</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
     </div>
-
-    <table class="table">
-        <thead>
-            <tr>
-                <th scope="col">Product</th>
-                <th scope="col">Quantity</th>
-                <th scope="col">Unit Price</th>
-                <th scope="col">Sub Price</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model.OrderDetails)
-            {
-                <tr>
-                    <td>
-                        <div class="media">
-                            <div class="d-flex">
-                                <img src="~/@item.Product.ImageUrl" alt="" style="width:150px">
-                            </div>
-                            <div class="media-body">
-                                <p>@item.Product.Name</p>
-                            </div>
-                        </div>
-                    </td>
-                    <td>
-                        @item.Quantity
-                    </td>
-                    <td>
-                        @item.UnitPrice
-                    </td>
-                    <td>
-                        <h5>@String.Format("{0:0.00}", item.Product.Price * item.Quantity)</h5>
-                    </td>
-                </tr>
-            }
-        </tbody>
-
-    </table>
-</div>
+</section>
+<!-- ================ end banner area ================= -->
+<!--================Cart Area =================-->
+<section class="cart_area">
+    <div class="container">
+        <div class="cart_inner">
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.ToName</h5>
+                        <p class="card-text"><strong>Phone:</strong> @item.ToPhone</p>
+                        <p class="card-text"><strong>Address:</strong> @item.ToAddress</p>
+                        <p class="card-text"><strong>Created:</strong> @item.CreateDate.ToString("dd/MM/yyyy")</p>
+                        <p class="card-text"><strong>COD Amount:</strong> <span class="text-success">$@item.CodAmount</span></p>
+                        <p class="card-text"><strong>Status:</strong> <span class="badge bg-info">@item.Status</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Name</th>
+                            <th scope="col">Code</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col">Weight</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var product in item.ProductGHNs)
+                        {
+                            <tr>
+                                <td>
+                                    @product.Name
+                                </td>
+                                <td>
+                                    @product.Code
+                                </td>
+                                <td>
+                                    @product.Quantity
+                                </td>
+                                <td>
+                                    @product.Weight
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Cart Area =================-->

@@ -1,0 +1,1249 @@
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.staticwebassets.runtime.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.exe
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.deps.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.runtimeconfig.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.pdb
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfo.cs
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cache
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cs
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.A LIÊM_SHOP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.build.A LIÊM_SHOP.props
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.A LIÊM_SHOP.props
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.A LIÊM_SHOP.props
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\bundle\A LIÊM_SHOP.styles.css
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\projectbundle\A LIÊM_SHOP.bundle.scp.css
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\refint\A LIÊM_SHOP.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.pdb
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.genruntimeconfig.cache
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\ref\A LIÊM_SHOP.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.Development.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.staticwebassets.runtime.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.exe
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.deps.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.runtimeconfig.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.pdb
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Core.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Identity.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Humanizer.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.ClientModel.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.CodeDom.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.AssemblyReference.cache
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfoInputs.cache
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfo.cs
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.CoreCompileInputs.cache
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cache
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cs
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.build.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.development.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.A LIÊM_SHOP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.build.A LIÊM_SHOP.props
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.A LIÊM_SHOP.props
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.A LIÊM_SHOP.props
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\bundle\A LIÊM_SHOP.styles.css
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\projectbundle\A LIÊM_SHOP.bundle.scp.css
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_S.AD819E92.Up2Date
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\refint\A LIÊM_SHOP.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.pdb
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.genruntimeconfig.cache
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\ref\A LIÊM_SHOP.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\Work\CSharp\ASPNetCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.Development.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.staticwebassets.runtime.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.exe
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.deps.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.runtimeconfig.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.pdb
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Core.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Identity.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Humanizer.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.ClientModel.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.CodeDom.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.AssemblyReference.cache
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfoInputs.cache
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfo.cs
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.CoreCompileInputs.cache
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cache
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cs
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.build.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.development.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.A LIÊM_SHOP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.build.A LIÊM_SHOP.props
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.A LIÊM_SHOP.props
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.A LIÊM_SHOP.props
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\bundle\A LIÊM_SHOP.styles.css
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\projectbundle\A LIÊM_SHOP.bundle.scp.css
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.CopyComplete
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\refint\A LIÊM_SHOP.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.pdb
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.genruntimeconfig.cache
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\ref\A LIÊM_SHOP.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Common.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Saler\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\CShap\ASPNETCore\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.staticwebassets.endpoints.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Saler\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.A LIÊM_SHOP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Admin\Documents\DoAnChuyenNganh___2024\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LI_M_S.AD819E92.Up2Date
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.Development.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.staticwebassets.runtime.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.exe
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.deps.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.runtimeconfig.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.pdb
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Core.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Identity.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Humanizer.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Common.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.ClientModel.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.CodeDom.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.AssemblyReference.cache
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfoInputs.cache
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfo.cs
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.CoreCompileInputs.cache
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cache
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cs
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.build.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.development.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.A LIÊM_SHOP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.build.A LIÊM_SHOP.props
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.A LIÊM_SHOP.props
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.A LIÊM_SHOP.props
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Saler\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\bundle\A LIÊM_SHOP.styles.css
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\projectbundle\A LIÊM_SHOP.bundle.scp.css
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.CopyComplete
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\refint\A LIÊM_SHOP.dll
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.pdb
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.genruntimeconfig.cache
+D:\Work\CShap\ASPNETCore\Doanchuyennganh_Code-main\Doanchuyennganh_Code-main\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\ref\A LIÊM_SHOP.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.Development.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\appsettings.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.staticwebassets.runtime.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.staticwebassets.endpoints.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.exe
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.deps.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.runtimeconfig.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\A LIÊM_SHOP.pdb
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Core.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Azure.Identity.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Humanizer.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.JSInterop.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Common.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.ClientModel.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.CodeDom.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.AssemblyReference.cache
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfoInputs.cache
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.AssemblyInfo.cs
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.csproj.CoreCompileInputs.cache
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cs
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.MvcApplicationPartsAssemblyInfo.cache
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cache
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.RazorAssemblyInfo.cs
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Areas\Saler\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\bundle\A LIÊM_SHOP.styles.css
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\scopedcss\projectbundle\A LIÊM_SHOP.bundle.scp.css
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.build.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.development.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.A LIÊM_SHOP.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.A LIÊM_SHOP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.build.A LIÊM_SHOP.props
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.A LIÊM_SHOP.props
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.A LIÊM_SHOP.props
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LI_M_S.AD819E92.Up2Date
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\refint\A LIÊM_SHOP.dll
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.pdb
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\A LIÊM_SHOP.genruntimeconfig.cache
+E:\ASPDOTNET\SourceCode\SourceCode\A LIÊM_SHOP\A LIÊM_SHOP\obj\Debug\net8.0\ref\A LIÊM_SHOP.dll

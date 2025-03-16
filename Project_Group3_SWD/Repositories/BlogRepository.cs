@@ -1,8 +1,8 @@
-﻿using A_LIÊM_SHOP.Models;
+﻿using Project_Group3_SWD.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 
-namespace A_LIÊM_SHOP.Repositories
+namespace Project_Group3_SWD.Repositories
 {
     public class BlogRepository : IBlogRepository
     {

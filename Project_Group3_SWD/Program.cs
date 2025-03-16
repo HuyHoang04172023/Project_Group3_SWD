@@ -1,7 +1,6 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Proxy;
-using A_LIÊM_SHOP.Repositories;
-using A_LIÊM_SHOP.Services;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Repositories;
+using Project_Group3_SWD.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,20 +17,30 @@ builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 // Cấu hình các dịch vụ tùy chỉnh (Repository, Services, etc.)
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
+
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
+
 builder.Services.AddScoped<IBlogRepository, BlogRepository>();
 builder.Services.AddScoped<IBlogService, BlogService>();
+
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+
 builder.Services.AddScoped<IBrandRepository, BrandRepository>();
 builder.Services.AddScoped<IBrandService, BrandService>();
+
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
-builder.Services.AddScoped<GHNService>();
+builder.Services.AddScoped<IGHNService, GHNService>();
+
+builder.Services.AddScoped<IOrderDetailsRepository, OrderDetailsRepository>();
+builder.Services.AddScoped<IOrderDetailsService, OrderDetailsService>();
 
 // Thêm các dịch vụ khác cần thiết cho ứng dụng (MVC, Razor Pages, etc.)
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient<GHNService>();
+builder.Services.AddScoped<GHNService>();
 
 // Thêm Session
 builder.Services.AddDistributedMemoryCache();
@@ -42,10 +51,13 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+
+
 var app = builder.Build();
 
 // Sử dụng Session
 app.UseSession();
+app.MapControllers();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

@@ -1,13 +1,16 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.ViewModels;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.ViewModels;
+using Microsoft.AspNetCore.Mvc;
 
-namespace A_LIÊM_SHOP.Repositories
+namespace Project_Group3_SWD.Repositories
 {
     public interface IOrderRepository
     {
         public void AddOrder(Order order, List<Item> cart);
         public List<Order> GetAll();
         public List<Order> GetByUserId(int userId);
+
+        Task<IActionResult> CreateOrder (Order order, List<Item> cart);
         public Order GetById(int id);
         public void UpdateOrder(Order order);
     }

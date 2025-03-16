@@ -1,8 +1,8 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Repositories;
-using A_LIÊM_SHOP.ViewModels;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Repositories;
+using Project_Group3_SWD.ViewModels;
 
-namespace A_LIÊM_SHOP.Services
+namespace Project_Group3_SWD.Services
 {
     public class OrderService : IOrderService
     {
@@ -14,7 +14,8 @@ namespace A_LIÊM_SHOP.Services
         }
         public void AddOrder(Order order, List<Item> cart)
         {
-            _orderRepository.AddOrder(order, cart);
+           // _orderRepository.AddOrder(order, cart);
+            _orderRepository.CreateOrder(order, cart);
         }
 
         public List<Order> GetAll()

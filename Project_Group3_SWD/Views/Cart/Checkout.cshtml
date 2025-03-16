@@ -1,90 +1,76 @@
-﻿
-
+﻿@using Project_Group3_SWD.ViewModels
+@model Project_Group3_SWD.ViewModels.OrderViewModel
 @{
-    ViewBag.Title = "Checkout";
+    ViewData["Title"] = "Checkout Page";
 }
+<!-- ================ start banner area ================= -->
+<section class="blog-banner-area" id="category">
+    <div class="container h-100">
+        <div class="blog-banner">
+            <div class="text-center">
+                <h1>Product Checkout</h1>
+                <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="~/">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Checkout</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ end banner area ================= -->
+<!--================Checkout Area =================-->
+<section class="checkout_area section-margin--small">
+    <div class="container">
+        
+        <div class="billing_details">
+            <form asp-controller="Cart" asp-action="Checkout" method="post">
+            <div class="row">
+                <div class="col-lg-8">
+                    <h3>Billing Details</h3>
+                        <div class="col-md-12 form-group p_star">
+                            <input type="text" class="form-control" id="first" asp-for="Name" placeholder="Name">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <input type="text" class="form-control" id="company" asp-for="Address" placeholder="Address">
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12 form-group p_star">
+                            <input type="text" class="form-control" id="number" asp-for="Phone" placeholder="Phone number">
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="order_box">
+                        <h2>Your Order</h2>
+                        <ul class="list">
+                            <li><a href="#"><h4>Product <span>Total</span></h4></a></li>
+                            @{
+                                var cart = ViewBag.Cart as List<Item>;  // or IEnumerable<Item>
+                                var total = cart?.Sum(x => x.Quantity * x.Product.Price) ?? 0;
+                            }
+                            @foreach (var item in ViewBag.Cart)
+											{
+                                <li><a href="#">@item.Product.Name <span class="middle">x @item.Quantity</span> <span class="last">$@String.Format("{0:0.00}", item.Product.Price * item.Quantity)</span></a></li>
+                                            }
+                        </ul>
+                        <ul class="list list_2">
+                            <li><a href="#">Total <span>$@String.Format("{0:0.00}", total)</span></a></li>
+                        </ul>
+             
 
-<h1>Checkout</h1>
+                        <div class="text-center">
+                            <button class="button button-paypal" type="submit">Checkout</button>
+                        </div>
+                    </div>
+                </div>
 
-<form method="post" action="@Url.Action("CreateShippingOrder", "Cart")">
-    <div>
-        <label>From Name:</label>
-        <span>@ViewBag.from_name</span>
-        <input type="hidden" name="from_name" value="@ViewBag.from_name" />
-    </div>
-    <div>
-        <label>From Phone:</label>
-        <span>@ViewBag.from_phone</span>
-        <input type="hidden" name="from_phone" value="@ViewBag.from_phone" />
-    </div>
-    <div>
-        <label>From Address:</label>
-        <span>@ViewBag.from_address</span>
-        <input type="hidden" name="from_address" value="@ViewBag.from_address" />
-    </div>
-    <div>
-        <label>To Name:</label>
-        <span>@ViewBag.to_name</span>
-        <input type="hidden" name="to_name" value="@ViewBag.to_name" />
-    </div>
-    <div>
-        <label>To Phone:</label>
-        <span>@ViewBag.to_phone</span>
-        <input type="hidden" name="to_phone" value="@ViewBag.to_phone" />
-    </div>
-    <div>
-        <label>To Address:</label>
-        <span>@ViewBag.to_address</span>
-        <input type="hidden" name="to_address" value="@ViewBag.to_address" />
-    </div>
-    <div>
-        <label>To Ward Code:</label>
-        <span>@ViewBag.to_ward_code</span>
-        <input type="hidden" name="to_ward_code" value="@ViewBag.to_ward_code" />
-    </div>
-    <div>
-        <label>To District ID:</label>
-        <span>@ViewBag.to_district_id</span>
-        <input type="hidden" name="to_district_id" value="@ViewBag.to_district_id" />
-    </div>
-    <div>
-        <label>COD Amount:</label>
-        <span>@ViewBag.cod_amount</span>
-        <input type="hidden" name="cod_amount" value="@ViewBag.cod_amount" />
-    </div>
-    <div>
-        <label>Service ID:</label>
-        <span>@ViewBag.service_id</span>
-        <input type="hidden" name="service_id" value="@ViewBag.service_id" />
-    </div>
-    <div>
-        <label>Payment Method:</label>
-        <span>@ViewBag.payment_method</span>
-        <input type="hidden" name="payment_method" value="@ViewBag.payment_method" />
-    </div>
+            </div>
+        </form>
+        </div>
 
-    <div>
-        <label>Items:</label>
-        <table border="1">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Quantity</th>
-                    <th>Price</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in ViewBag.items)
-                {
-                    <tr>
-                        <td>@item.Name</td>
-                        <td>@item.Quantity</td>
-                        <td>@item.Price</td>
-                    </tr>
-                }
-            </tbody>
-        </table>
     </div>
-    <br />
-    <button type="submit">Create Shipping Order</button>
-</form>
+</section>
+<!--================End Checkout Area =================-->
