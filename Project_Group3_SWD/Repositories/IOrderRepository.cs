@@ -1,7 +1,7 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.ViewModels;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.ViewModels;
 
-namespace A_LIÊM_SHOP.Repositories
+namespace Project_Group3_SWD.Repositories
 {
     public interface IOrderRepository
     {

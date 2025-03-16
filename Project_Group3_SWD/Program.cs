@@ -1,7 +1,7 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Proxy;
-using A_LIÊM_SHOP.Repositories;
-using A_LIÊM_SHOP.Services;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Proxy;
+using Project_Group3_SWD.Repositories;
+using Project_Group3_SWD.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,12 +1,12 @@
-﻿using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Services;
-using A_LIÊM_SHOP.ViewModels;
+﻿using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Services;
+using Project_Group3_SWD.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection.Metadata;
 using X.PagedList.Extensions;
 
-namespace A_LIÊM_SHOP.Controllers
+namespace Project_Group3_SWD.Controllers
 {
     public class BlogController : Controller
     {

@@ -1,6 +1,6 @@
 ﻿@using X.PagedList.Mvc.Core
 @using X.PagedList
-@model X.PagedList.IPagedList<A_LIÊM_SHOP.Models.Product>
+@model X.PagedList.IPagedList<Project_Group3_SWD.Models.Product>
 @{
     ViewData["Title"] = "Shop Page";
 }
@@ -33,7 +33,7 @@
                         <div class="head">Brands</div>
                         <form action="#">
                             <ul>
-                                @foreach (var brand in ViewBag.Brands as IEnumerable<A_LIÊM_SHOP.Models.Brand>)
+                                @foreach (var brand in ViewBag.Brands as IEnumerable<Project_Group3_SWD.Models.Brand>)
 							{
                                     <li class="filter-list"><input class="pixel-radio" type="radio" id="brand-@brand.Id" name="brand" value="@brand.Id" @(brand.Id == -1 ? "checked" : "")><label for="brand-@brand.Id">@brand.Name<span>(@brand.Products.Count)</span></label></li>
                             }
@@ -45,7 +45,7 @@
                         <div class="head">Categories</div>
                         <form action="#">
                             <ul>
-                                 @foreach (var category in ViewBag.Categories as IEnumerable<A_LIÊM_SHOP.Models.Category>)
+                                 @foreach (var category in ViewBag.Categories as IEnumerable<Project_Group3_SWD.Models.Category>)
 							{
                                     <li class="filter-list"><input class="pixel-radio" type="radio" id="category-@category.Id" name="category" value="@category.Id" @(category.Id == -1 ? "checked" : "")><label for="category-@category.Id">@category.Name<span>(@category.Products.Count)</span></label></li>
                             }

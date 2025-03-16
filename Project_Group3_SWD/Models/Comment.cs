@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace A_LIÊM_SHOP.Models;
+namespace Project_Group3_SWD.Models;
 
 public partial class Comment
 {

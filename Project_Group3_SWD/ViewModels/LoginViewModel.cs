@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace A_LIÊM_SHOP.ViewModels
+namespace Project_Group3_SWD.ViewModels
 {
 	public class LoginViewModel
 	{

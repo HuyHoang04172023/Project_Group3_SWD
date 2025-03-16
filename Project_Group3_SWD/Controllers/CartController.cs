@@ -1,15 +1,15 @@
 ﻿using System.Net;
 using System.Security.Cryptography.Xml;
-using A_LIÊM_SHOP.Extensions;
-using A_LIÊM_SHOP.Models;
-using A_LIÊM_SHOP.Proxy;
-using A_LIÊM_SHOP.Repositories;
-using A_LIÊM_SHOP.Services;
-using A_LIÊM_SHOP.ViewModels;
+using Project_Group3_SWD.Extensions;
+using Project_Group3_SWD.Models;
+using Project_Group3_SWD.Proxy;
+using Project_Group3_SWD.Repositories;
+using Project_Group3_SWD.Services;
+using Project_Group3_SWD.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace A_LIÊM_SHOP.Controllers
+namespace Project_Group3_SWD.Controllers
 {
     public class CartController : Controller
     {

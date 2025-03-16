@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 using Microsoft.AspNetCore.Http;
-namespace A_LIÊM_SHOP.Extensions
+namespace Project_Group3_SWD.Extensions
 {
     public static class SessionExtensions
     {
