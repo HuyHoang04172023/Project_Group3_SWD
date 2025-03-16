@@ -28,6 +28,7 @@ builder.Services.AddScoped<IBrandRepository, BrandRepository>();
 builder.Services.AddScoped<IBrandService, BrandService>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IVnPayService, VnPayService>();
 builder.Services.AddScoped<GHNService>();
 
 // Thêm các dịch vụ khác cần thiết cho ứng dụng (MVC, Razor Pages, etc.)

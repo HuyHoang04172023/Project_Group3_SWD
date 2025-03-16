@@ -19,10 +19,8 @@ namespace A_LIÊM_SHOP.Proxy
             _httpClient = new HttpClient();
             _httpClient.DefaultRequestHeaders.Add("Token", _apiToken);
             _httpClient.DefaultRequestHeaders.Add("ShopId", _shopId);
-            //_httpClient.DefaultRequestHeaders.Add("Content-Type", "application/json");
         }
 
-        // Lấy danh sách tỉnh/thành phố
         public async Task<JObject> GetProvincesAsync()
         {
             try
@@ -35,11 +33,10 @@ namespace A_LIÊM_SHOP.Proxy
             catch (Exception ex)
             {
                 Console.WriteLine($"Error getting provinces: {ex.Message}");
-                return new JObject(); // Trả về object rỗng nếu lỗi
+                return new JObject();
             }
         }
 
-        // Lấy danh sách quận/huyện theo ProvinceID
         public async Task<JObject> GetDistrictsAsync(int provinceId)
         {
             try
@@ -52,11 +49,10 @@ namespace A_LIÊM_SHOP.Proxy
             catch (Exception ex)
             {
                 Console.WriteLine($"Error getting districts: {ex.Message}");
-                return new JObject(); // Trả về object rỗng nếu lỗi
+                return new JObject();
             }
         }
 
-        // Lấy danh sách phường/xã theo DistrictID
         public async Task<JObject> GetWardsAsync(int districtId)
         {
             try
@@ -69,7 +65,7 @@ namespace A_LIÊM_SHOP.Proxy
             catch (Exception ex)
             {
                 Console.WriteLine($"Error getting wards: {ex.Message}");
-                return new JObject(); // Trả về object rỗng nếu lỗi
+                return new JObject();
             }
         }
 
@@ -85,7 +81,7 @@ namespace A_LIÊM_SHOP.Proxy
             catch (Exception ex)
             {
                 Console.WriteLine($"Error getting shops: {ex.Message}");
-                return new JObject(); // Trả về object rỗng nếu lỗi
+                return new JObject();
             }
         }
 
@@ -117,15 +113,14 @@ namespace A_LIÊM_SHOP.Proxy
         {
             try
             {
-                // Fake data cho weight và items
                 var requestData = new
                 {
                     shop_id = shopId,
                     from_district_id = fromDistrictId,
                     to_district_id = toDistrictId,
-                    service_id = serviceId, // Fake service_type_id (Tiết kiệm = 2, Nhanh = 1)
+                    service_id = serviceId,
                     to_ward_code = toWardCode,
-                    weight = 200, // Fake weight: 200 gram
+                    weight = 200,
                     items = new[]
                     {
                         new
@@ -184,10 +179,6 @@ namespace A_LIÊM_SHOP.Proxy
                         price = item.Price,
                         weight = item.Weight 
                     }).ToArray(),
-                    //items = new[]
-                    //{
-                    //    new { name = "Product 1", quantity = 1, price = 100000, weight = 200 }
-                    //},
                 };
 
                 var content = new StringContent(Newtonsoft.Json.JsonConvert.SerializeObject(requestData), Encoding.UTF8, "application/json");

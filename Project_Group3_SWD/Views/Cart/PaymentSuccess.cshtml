@@ -1,0 +1,14 @@
+﻿<form id="checkoutForm" asp-controller="Cart" asp-action="Checkout" method="post">
+    <input type="hidden" name="to_name" value="@TempData["to_name"]" />
+    <input type="hidden" name="to_phone" value="@TempData["to_phone"]" />
+    <input type="hidden" name="to_address" value="@TempData["to_address"]" />
+    <input type="hidden" name="to_ward_code" value="@TempData["to_ward_code"]" />
+    <input type="hidden" name="to_district_id" value="@TempData["to_district_id"]" />
+    <input type="hidden" name="cod_amount" value="@TempData["cod_amount"]" />
+    <input type="hidden" name="service_id" value="@TempData["service_id"]" />
+    <input type="hidden" name="payment_method" value="@TempData["payment_method"]" />
+</form>
+
+<script>
+    document.getElementById("checkoutForm").submit();
+</script>

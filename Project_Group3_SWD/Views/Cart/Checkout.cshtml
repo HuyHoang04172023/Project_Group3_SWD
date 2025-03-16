@@ -1,90 +1,187 @@
-﻿
-
-@{
+﻿@{
     ViewBag.Title = "Checkout";
 }
 
-<h1>Checkout</h1>
+<style>
+    .checkout-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }
 
-<form method="post" action="@Url.Action("CreateShippingOrder", "Cart")">
-    <div>
-        <label>From Name:</label>
-        <span>@ViewBag.from_name</span>
-        <input type="hidden" name="from_name" value="@ViewBag.from_name" />
-    </div>
-    <div>
-        <label>From Phone:</label>
-        <span>@ViewBag.from_phone</span>
-        <input type="hidden" name="from_phone" value="@ViewBag.from_phone" />
-    </div>
-    <div>
-        <label>From Address:</label>
-        <span>@ViewBag.from_address</span>
-        <input type="hidden" name="from_address" value="@ViewBag.from_address" />
-    </div>
-    <div>
-        <label>To Name:</label>
-        <span>@ViewBag.to_name</span>
-        <input type="hidden" name="to_name" value="@ViewBag.to_name" />
-    </div>
-    <div>
-        <label>To Phone:</label>
-        <span>@ViewBag.to_phone</span>
-        <input type="hidden" name="to_phone" value="@ViewBag.to_phone" />
-    </div>
-    <div>
-        <label>To Address:</label>
-        <span>@ViewBag.to_address</span>
-        <input type="hidden" name="to_address" value="@ViewBag.to_address" />
-    </div>
-    <div>
-        <label>To Ward Code:</label>
-        <span>@ViewBag.to_ward_code</span>
-        <input type="hidden" name="to_ward_code" value="@ViewBag.to_ward_code" />
-    </div>
-    <div>
-        <label>To District ID:</label>
-        <span>@ViewBag.to_district_id</span>
-        <input type="hidden" name="to_district_id" value="@ViewBag.to_district_id" />
-    </div>
-    <div>
-        <label>COD Amount:</label>
-        <span>@ViewBag.cod_amount</span>
-        <input type="hidden" name="cod_amount" value="@ViewBag.cod_amount" />
-    </div>
-    <div>
-        <label>Service ID:</label>
-        <span>@ViewBag.service_id</span>
-        <input type="hidden" name="service_id" value="@ViewBag.service_id" />
-    </div>
-    <div>
-        <label>Payment Method:</label>
-        <span>@ViewBag.payment_method</span>
-        <input type="hidden" name="payment_method" value="@ViewBag.payment_method" />
-    </div>
+    h1 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 30px;
+    }
 
-    <div>
-        <label>Items:</label>
-        <table border="1">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Quantity</th>
-                    <th>Price</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in ViewBag.items)
-                {
+    .section {
+        background-color: #f9f9f9;
+        padding: 20px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+        .section h3 {
+            margin-top: 0;
+            color: #555;
+            font-size: 18px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+        }
+
+    .info-row {
+        display: flex;
+        justify-content: space-between;
+        margin: 10px 0;
+    }
+
+        .info-row label {
+            font-weight: bold;
+            color: #666;
+            width: 30%;
+        }
+
+        .info-row span {
+            width: 65%;
+            color: #333;
+        }
+
+    .items-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+
+        .items-table th, .items-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .items-table th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .items-table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+    .submit-btn {
+        display: block;
+        width: 100%;
+        padding: 12px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .submit-btn:hover {
+            background-color: #218838;
+        }
+</style>
+
+<div class="checkout-container">
+    <h1>Checkout</h1>
+
+    <form method="post" action="@Url.Action("CreateShippingOrder", "Cart")">
+        <div class="section">
+            <h3>Sender Information</h3>
+            <div class="info-row">
+                <label>From Name:</label>
+                <span>@ViewBag.from_name</span>
+                <input type="hidden" name="from_name" value="@ViewBag.from_name" />
+            </div>
+            <div class="info-row">
+                <label>From Phone:</label>
+                <span>@ViewBag.from_phone</span>
+                <input type="hidden" name="from_phone" value="@ViewBag.from_phone" />
+            </div>
+            <div class="info-row">
+                <label>From Address:</label>
+                <span>@ViewBag.from_address</span>
+                <input type="hidden" name="from_address" value="@ViewBag.from_address" />
+            </div>
+        </div>
+
+        <div class="section">
+            <h3>Receiver Information</h3>
+            <div class="info-row">
+                <label>To Name:</label>
+                <span>@ViewBag.to_name</span>
+                <input type="hidden" name="to_name" value="@ViewBag.to_name" />
+            </div>
+            <div class="info-row">
+                <label>To Phone:</label>
+                <span>@ViewBag.to_phone</span>
+                <input type="hidden" name="to_phone" value="@ViewBag.to_phone" />
+            </div>
+            <div class="info-row">
+                <label>To Address:</label>
+                <span>@ViewBag.to_address</span>
+                <input type="hidden" name="to_address" value="@ViewBag.to_address" />
+            </div>
+            <div class="info-row">
+                <label>Ward Code:</label>
+                <span>@ViewBag.to_ward_code</span>
+                <input type="hidden" name="to_ward_code" value="@ViewBag.to_ward_code" />
+            </div>
+            <div class="info-row">
+                <label>District ID:</label>
+                <span>@ViewBag.to_district_id</span>
+                <input type="hidden" name="to_district_id" value="@ViewBag.to_district_id" />
+            </div>
+        </div>
+
+        <div class="section">
+            <h3>Order Details</h3>
+            <div class="info-row">
+                <label>COD Amount:</label>
+                <span>@ViewBag.cod_amount</span>
+                <input type="hidden" name="cod_amount" value="@ViewBag.cod_amount" />
+            </div>
+            <div class="info-row">
+                <label>Service ID:</label>
+                <span>@ViewBag.service_id</span>
+                <input type="hidden" name="service_id" value="@ViewBag.service_id" />
+            </div>
+            <div class="info-row">
+                <label>Payment Method:</label>
+                <span>@ViewBag.payment_method</span>
+                <input type="hidden" name="payment_method" value="@ViewBag.payment_method" />
+            </div>
+        </div>
+
+        <div class="section">
+            <h3>Items</h3>
+            <table class="items-table">
+                <thead>
                     <tr>
-                        <td>@item.Name</td>
-                        <td>@item.Quantity</td>
-                        <td>@item.Price</td>
+                        <th>Name</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
                     </tr>
-                }
-            </tbody>
-        </table>
-    </div>
-    <br />
-    <button type="submit">Create Shipping Order</button>
-</form>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.items)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.Price</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <button type="submit" class="submit-btn">Create Shipping Order</button>
+    </form>
+</div>

@@ -6,6 +6,7 @@ using A_LIÊM_SHOP.Proxy;
 using A_LIÊM_SHOP.Repositories;
 using A_LIÊM_SHOP.Services;
 using A_LIÊM_SHOP.ViewModels;
+using A_LIÊM_SHOP.Proxy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -16,11 +17,17 @@ namespace A_LIÊM_SHOP.Controllers
         private readonly IProductService _productService;
         private readonly IOrderService _orderService;
         private readonly GHNService _ghnService;
-        public CartController(IProductService productService, IOrderService orderService)
+        private readonly IVnPayService _vnPayService;
+
+
+        public CartController(IProductService productService, IOrderService orderService, IVnPayService vnPayService)
         {
             _productService = productService;
             _orderService = orderService;
             _ghnService = new GHNService();
+            _vnPayService = vnPayService;
+
+
         }
         public IActionResult Index()
         {
@@ -152,7 +159,18 @@ namespace A_LIÊM_SHOP.Controllers
 
             if(payment_method == "online-payment")
             {
-                //Lam VnPay
+                ShippingOrderModel order = new ShippingOrderModel();
+                order.to_name = to_name;
+                order.to_phone = to_phone;
+                order.to_address = to_address;
+                order.to_ward_code = to_ward_code;
+                order.to_district_id = to_district_id;
+                order.cod_amount = cod_amount;
+                order.service_id = service_id;
+                order.payment_method = payment_method;
+
+                HttpContext.Session.SetObjectAsSession("order", order);
+                return RedirectToAction("CheckoutWithVNPay", new { totalAmount = ConvertUsdToVnd(cod_amount), name = to_name });
             }
 
             if (payment_method == "bank-transfer")
@@ -197,6 +215,27 @@ namespace A_LIÊM_SHOP.Controllers
             string to_name, string to_phone, string to_address, string to_ward_code, 
             int to_district_id, int cod_amount, int service_id)
         {
+            User u = HttpContext.Session.GetObjectFromSession<User>("user");
+            if (u != null)
+            {
+                Order order = new Order();
+                order.UserId = u.Id;
+                List<Item> cartUser = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
+                order.TotalAmountBefore = Math.Round((decimal)cartUser.Sum(x => x.Quantity * x.Product.Price), 2);
+                order.OrderDate = DateTime.Now;
+                order.PaymentMethod = "COD";
+                order.OrderStatus = "Processing";
+                order.Name = to_name;
+                order.Address = to_address;
+                order.Phone = to_phone;
+
+                _orderService.AddOrder(order, cartUser);
+                _productService.reduceQuantity(cartUser);
+            }
+            else
+            {
+                return RedirectToAction("Login", "Auth");
+            }
 
             List<Item> cart = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
 
@@ -213,9 +252,70 @@ namespace A_LIÊM_SHOP.Controllers
                 cod_amount,service_id, items);
             if (orderJson["code"]?.ToObject<int>() == 200)
             {
-                return Ok(new { message = "Order created successfully", order_code = orderJson["data"]?["order_code"] });
+                HttpContext.Session.Remove("cart");
+
+                TempData["SuccessMessage"] = "Order successful!";
+                return Redirect("/");
+
             }
             return BadRequest(new { message = "Failed to create order", error = orderJson["message"] });
         }
+
+        [HttpGet]
+        public IActionResult CheckoutWithVNPay(int totalAmount, string name)
+        {
+            Console.WriteLine(ConvertUsdToVnd(totalAmount));
+            Console.WriteLine(name);
+
+            var paymentModel = new PaymentInformationModel
+            {
+                Amount = totalAmount,
+                OrderDescription = $"Thanh toán đơn hàng",
+                Name = name,
+                OrderType = "billpayment"
+            };
+
+            // Gọi API VNPay để tạo URL thanh toán
+            string vnpayUrl = _vnPayService.CreatePaymentUrl(paymentModel, HttpContext);
+
+            return Redirect(vnpayUrl); // Chuyển hướng đến VNPay
+        }
+        [HttpGet]
+        public IActionResult PaymentCallbackVnpay()
+        {
+            var response = _vnPayService.PaymentExecute(Request.Query) as PaymentResponseModel;
+
+            if (response != null && response.Success)
+            {
+                return RedirectToAction("PaymentSuccess", "Cart"); // Điều hướng đến Cart/PaymentSuccess
+            }
+
+            TempData["ErrorMessage"] = $"Giao dịch thất bại! Mã lỗi: {response?.VnPayResponseCode}";
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult PaymentSuccess()
+        {
+            ShippingOrderModel order = HttpContext.Session.GetObjectFromSession<ShippingOrderModel>("order");
+
+            if (order == null)
+            {
+                return RedirectToAction("Cart"); // Xử lý khi không có đơn hàng
+            }
+
+            // Lưu dữ liệu vào TempData để chuyển sang phương thức POST
+            TempData["to_name"] = order.to_name;
+            TempData["to_phone"] = order.to_phone;
+            TempData["to_address"] = order.to_address;
+            TempData["to_ward_code"] = order.to_ward_code;
+            TempData["to_district_id"] = order.to_district_id;
+            TempData["cod_amount"] = 0;
+            TempData["service_id"] = order.service_id;
+            TempData["payment_method"] = "cod";
+
+            return View(); // Chuyển hướng đến một GET action
+        }
+
     }
 }
