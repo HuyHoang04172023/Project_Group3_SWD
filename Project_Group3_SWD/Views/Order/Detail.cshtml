@@ -1,6 +1,6 @@
-﻿ @model Order
+﻿@using Project_Group3_SWD.ViewModels;
 @{
-    ViewData["Title"] = "Order Page";
+   OrderGHNViewModel item = ViewBag.Order as OrderGHNViewModel ?? new OrderGHNViewModel();
 }
 <!-- ================ start banner area ================= -->
 <section class="blog-banner-area" id="category">
@@ -23,41 +23,45 @@
 <section class="cart_area">
     <div class="container">
         <div class="cart_inner">
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.ToName</h5>
+                        <p class="card-text"><strong>Phone:</strong> @item.ToPhone</p>
+                        <p class="card-text"><strong>Address:</strong> @item.ToAddress</p>
+                        <p class="card-text"><strong>Created:</strong> @item.CreateDate.ToString("dd/MM/yyyy")</p>
+                        <p class="card-text"><strong>COD Amount:</strong> <span class="text-success">$@item.CodAmount</span></p>
+                        <p class="card-text"><strong>Status:</strong> <span class="badge bg-info">@item.Status</span></p>
+                    </div>
+                </div>
+            </div>
             <div class="table-responsive">
                 <table class="table">
                     <thead>
                         <tr>
-                            <th scope="col">Product</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Code</th>
                             <th scope="col">Quantity</th>
-                            <th scope="col">Unit Price</th>
-                            <th scope="col">Sub Price</th>
+                            <th scope="col">Weight</th>
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (var item in Model.OrderDetails)
-                        {
+                    @foreach (var product in item.ProductGHNs){
                             <tr>
                                 <td>
-                                    <div class="media">
-                                        <div class="d-flex">
-                                            <img src="~/@item.Product.ImageUrl" alt="" style="width:150px">
-                                        </div>
-                                        <div class="media-body">
-                                            <p>@item.Product.Name</p>
-                                        </div>
-                                    </div>
+                                    @product.Name
                                 </td>
                                 <td>
-                                    @item.Quantity
+                                    @product.Code
                                 </td>
                                 <td>
-                                    @item.UnitPrice
+                                    @product.Quantity
                                 </td>
                                 <td>
-                                    <h5>@String.Format("{0:0.00}", item.Product.Price * item.Quantity)</h5>
+                                    @product.Weight
                                 </td>
                             </tr>
-                        }
+                            }
                     </tbody>
                 </table>
             </div>

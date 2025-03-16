@@ -18,21 +18,31 @@ builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 // Cấu hình các dịch vụ tùy chỉnh (Repository, Services, etc.)
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
+
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
+
 builder.Services.AddScoped<IBlogRepository, BlogRepository>();
 builder.Services.AddScoped<IBlogService, BlogService>();
+
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+
 builder.Services.AddScoped<IBrandRepository, BrandRepository>();
 builder.Services.AddScoped<IBrandService, BrandService>();
+
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IVnPayService, VnPayService>();
-builder.Services.AddScoped<GHNService>();
+builder.Services.AddScoped<Project_Group3_SWD.Proxy.GHNService>();
+
+builder.Services.AddScoped<IOrderDetailsRepository, OrderDetailsRepository>();
+builder.Services.AddScoped<IOrderDetailsService, OrderDetailsService>();
 
 // Thêm các dịch vụ khác cần thiết cho ứng dụng (MVC, Razor Pages, etc.)
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient<Project_Group3_SWD.Proxy.GHNService>();
+builder.Services.AddScoped<Project_Group3_SWD.Proxy.GHNService>();
 
 // Thêm Session
 builder.Services.AddDistributedMemoryCache();
@@ -43,10 +53,13 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+
+
 var app = builder.Build();
 
 // Sử dụng Session
 app.UseSession();
+app.MapControllers();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

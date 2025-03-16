@@ -14,7 +14,8 @@ namespace Project_Group3_SWD.Services
         }
         public void AddOrder(Order order, List<Item> cart)
         {
-            _orderRepository.AddOrder(order, cart);
+           // _orderRepository.AddOrder(order, cart);
+            _orderRepository.CreateOrder(order, cart);
         }
 
         public List<Order> GetAll()
@@ -27,9 +28,9 @@ namespace Project_Group3_SWD.Services
             return _orderRepository.GetById(id);
         }
 
-        public List<Order> GetByUserId(int userId)
+        public async Task<List<Order>> GetByUserId(int userId)
         {
-            return _orderRepository.GetByUserId(userId);
+            return await _orderRepository.GetByUserId(userId);
         }
 
         public void UpdateOrder(Order order)

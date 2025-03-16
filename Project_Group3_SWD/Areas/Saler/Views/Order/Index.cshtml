@@ -1,7 +1,7 @@
-﻿@model IEnumerable<Project_Group3_SWD.Models.Order>
-
+﻿@using Project_Group3_SWD.ViewModels
 @{
-	ViewBag.Title = "Order";
+    List<OrderGHNViewModel> orders = ViewBag.Orders as List<OrderGHNViewModel> ?? new List<OrderGHNViewModel>();
+
 }
 
 <div class="listright">
@@ -11,41 +11,41 @@
 	<table class="table">
         <thead>
             <tr>
-                <th scope="col">Name</th>
-                <th scope="col">Phone</th>
-                <th scope="col">Address</th>
-                <th scope="col">Order Date</th>
-                <th scope="col">Total</th>
+                <th scope="col">ToName</th>
+                <th scope="col">ToPhone</th>
+                <th scope="col">ToAddress</th>
+                <th scope="col">Order Create Date</th>
+                <th scope="col">CodAmount</th>
                 <th scope="col">Status</th>
                 <th scope="col">Detail</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model)
+            @foreach (var item in orders)
             {
                 <tr>
                     <td>
-                        @item.Name
+                        @item.ToName
                     </td>
                     <td>
-                        @item.Phone
+                        @item.ToPhone
                     </td>
                     <td>
-                        @item.Address
+                        @item.ToAddress
                     </td>
                     <td>
-                        @item.OrderDate
+                        @item.CreateDate
                     </td>
                     <td>
-                        <h5>$@item.TotalAmountBefore</h5>
+                        <h5>$@item.CodAmount</h5>
                     </td>
                     <td>
-                        @item.OrderStatus
+                        @item.Status
                     </td>
                     <td>
-                        <a asp-action="Detail" asp-controller="Order" asp-area="Saler" asp-route-id="@item.Id">
-                            <button class="btn btn-primary">Detail</button>
-                        </a>
+                        <button onclick="window.location.href='@Url.Action("Detail", "Order", new { orderCode = @item.OrderCode})'">
+                            Detail
+                        </button>
                     </td>
 
                 </tr>

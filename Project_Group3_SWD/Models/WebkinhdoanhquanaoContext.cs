@@ -42,7 +42,6 @@ public partial class WebkinhdoanhquanaoContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     public virtual DbSet<Voucher> Vouchers { get; set; }
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Brand>(entity =>
@@ -134,6 +133,7 @@ public partial class WebkinhdoanhquanaoContext : DbContext
 
             entity.Property(e => e.DiscountAmount).HasColumnType("decimal(38, 0)");
             entity.Property(e => e.EndDate).HasColumnType("datetime");
+            entity.Property(e => e.OrderCode).HasMaxLength(50);
             entity.Property(e => e.OrderDate).HasColumnType("datetime");
             entity.Property(e => e.TotalAmountAfter).HasColumnType("decimal(38, 0)");
             entity.Property(e => e.TotalAmountBefore).HasColumnType("decimal(38, 0)");

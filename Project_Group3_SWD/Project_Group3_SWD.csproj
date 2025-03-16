@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>A_LIÊM_SHOP</RootNamespace>
+    <RootNamespace>Project_Group3_SWD</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -30,6 +30,7 @@
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Saler\Data\" />
     <Folder Include="Areas\Saler\Models\" />
+    <Folder Include="DTOs\Product\" />
   </ItemGroup>
 
 </Project>
