@@ -3,19 +3,34 @@ using Project_Group3_SWD.Proxy;
 using Project_Group3_SWD.Repositories;
 using Project_Group3_SWD.Services;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Google;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-// Cấu hình dịch vụ DbContext cho Entity Framework Core
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = GoogleDefaults.AuthenticationScheme;
+})
+.AddCookie()
+.AddGoogle(GoogleDefaults.AuthenticationScheme, options =>
+{
+    options.ClientId = builder.Configuration["Authentication:Google:ClientId"]!;
+    options.ClientSecret = builder.Configuration["Authentication:Google:ClientSecret"]!;
+    options.CallbackPath = "/signin-google"; // Default callback path
+});
+
+// Configure DbContext for Entity Framework Core
 builder.Services.AddDbContext<WebkinhdoanhquanaoContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
-// Cấu hình các dịch vụ tùy chỉnh (Repository, Services, etc.)
+// Configure custom services (Repository, Services, etc.)
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 
@@ -34,30 +49,31 @@ builder.Services.AddScoped<IBrandService, BrandService>();
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IVnPayService, VnPayService>();
-builder.Services.AddScoped<Project_Group3_SWD.Proxy.GHNService>();
+builder.Services.AddScoped<GHNService>();
 
 builder.Services.AddScoped<IOrderDetailsRepository, OrderDetailsRepository>();
 builder.Services.AddScoped<IOrderDetailsService, OrderDetailsService>();
 
-// Thêm các dịch vụ khác cần thiết cho ứng dụng (MVC, Razor Pages, etc.)
-builder.Services.AddControllersWithViews();
-builder.Services.AddHttpClient<Project_Group3_SWD.Proxy.GHNService>();
-builder.Services.AddScoped<Project_Group3_SWD.Proxy.GHNService>();
+// Register the IEmailServices implementation
+builder.Services.AddScoped<IEmailServices, EmailServices>();
 
-// Thêm Session
+// Add other necessary services for the application (MVC, Razor Pages, etc.)
+builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient<GHNService>();
+builder.Services.AddScoped<GHNService>();
+
+// Add Session
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromMinutes(30); // Thời gian tồn tại của session
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Session timeout duration
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
 
-
-
 var app = builder.Build();
 
-// Sử dụng Session
+// Use Session
 app.UseSession();
 app.MapControllers();
 
@@ -72,7 +88,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-//config area
+// Configure area routing
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
