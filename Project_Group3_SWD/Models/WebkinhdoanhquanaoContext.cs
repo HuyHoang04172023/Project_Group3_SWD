@@ -42,6 +42,7 @@ public partial class WebkinhdoanhquanaoContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     public virtual DbSet<Voucher> Vouchers { get; set; }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Brand>(entity =>
@@ -68,7 +69,7 @@ public partial class WebkinhdoanhquanaoContext : DbContext
 
             entity.HasOne(d => d.Product).WithMany(p => p.CartItems)
                 .HasForeignKey(d => d.ProductId)
-                .HasConstraintName("FK_CartItem_ProductDetail");
+                .HasConstraintName("FK_CartItem_Product");
         });
 
         modelBuilder.Entity<Category>(entity =>
@@ -84,7 +85,7 @@ public partial class WebkinhdoanhquanaoContext : DbContext
 
             entity.HasOne(d => d.Product).WithMany(p => p.Comments)
                 .HasForeignKey(d => d.ProductId)
-                .HasConstraintName("FK_Comment_ProductDetail");
+                .HasConstraintName("FK_Comment_Product");
 
             entity.HasOne(d => d.RepplyComment).WithMany(p => p.InverseRepplyComment)
                 .HasForeignKey(d => d.RepplyCommentId)
@@ -159,7 +160,7 @@ public partial class WebkinhdoanhquanaoContext : DbContext
 
             entity.HasOne(d => d.Product).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.ProductId)
-                .HasConstraintName("FK_OrderDetail_ProductDetail");
+                .HasConstraintName("FK_OrderDetail_Product");
         });
 
         modelBuilder.Entity<Post>(entity =>
@@ -181,7 +182,7 @@ public partial class WebkinhdoanhquanaoContext : DbContext
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK_ProductDetail");
+            entity.HasKey(e => e.Id).HasName("PK_Product");
 
             entity.ToTable("Product");
 
@@ -190,11 +191,11 @@ public partial class WebkinhdoanhquanaoContext : DbContext
 
             entity.HasOne(d => d.Brand).WithMany(p => p.Products)
                 .HasForeignKey(d => d.BrandId)
-                .HasConstraintName("FK_ProductDetail_Brand");
+                .HasConstraintName("FK_Product_Brand");
 
             entity.HasOne(d => d.Category).WithMany(p => p.Products)
                 .HasForeignKey(d => d.CategoryId)
-                .HasConstraintName("FK_ProductDetail_Category");
+                .HasConstraintName("FK_Product_Category");
         });
 
         modelBuilder.Entity<Role>(entity =>

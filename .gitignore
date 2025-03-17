@@ -11,6 +11,9 @@ obj/
 *.ilk
 *.log
 
+#file appsettings
+.\Project_Group3_SWD\appsettings.json
+
 # Các file build
 *.exe
 *.dll
