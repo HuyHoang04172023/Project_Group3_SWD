@@ -5,19 +5,17 @@
         public const string GMAIL_REGISTER_EMAIL_SUBJECT = "Welcome to SHOPQUANAO!";
 
         public const string GMAIL_REGISTER_EMAIL_BODY = @"
-            Welcome to SHOPQUANAO! Your account has been successfully created via Google Sign-In. Here are your account details:
-
-            Registered Email: {1}  
-
-            Use the link below to set a password for your account:
-
-            🔐 [Set Your Password]({2})
-
-            If this wasn’t you, please contact our support team immediately.
-
-            Best regards,  
-            SHOPQUANAO Team  
-
-            support@SHOPQUANAO.com | SHOPQUANAO";
+                <html>
+                <body>
+                    <h2>Welcome to SHOPQUANAO!</h2>
+                    <p>Your account has been successfully created via Google Sign-In. Here are your account details:</p>
+                    <p><strong>Registered Email:</strong> {1}</p>
+                    <p>If this wasn’t you, please contact our support team immediately.</p>
+                    <br>
+                    <p>Best regards,</p>
+                    <p>SHOPQUANAO Team</p>
+                    <p><a href='mailto:support@SHOPQUANAO.com'>support@SHOPQUANAO.com</a> | SHOPQUANAO</p>
+                </body>
+                </html>";
     }
 }
