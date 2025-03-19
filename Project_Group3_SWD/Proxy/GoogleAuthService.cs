@@ -60,7 +60,7 @@ namespace Project_Group3_SWD.Proxy
 
             var user = await _userService.GetUserByEmailAsync(email);
 
-            if (user == null || user.Status == true)
+            if (user == null)
             {
                 user = new User
                 {

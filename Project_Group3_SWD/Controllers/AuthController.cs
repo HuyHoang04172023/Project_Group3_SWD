@@ -46,10 +46,6 @@ namespace Project_Group3_SWD.Controllers
                         {
                             return RedirectToAction("Index", "Brand", new { area = "Admin" });
                         }
-                        else if (user.RoleId == 2)
-                        {
-                            return RedirectToAction("Index", "Order", new { area = "Saler" });
-                        }
                         else
                         {
                             return RedirectToAction("Index", "Home");

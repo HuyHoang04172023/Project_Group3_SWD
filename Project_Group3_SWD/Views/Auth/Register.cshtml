@@ -1,71 +1,59 @@
 ﻿@model Project_Group3_SWD.ViewModels.RegisterViewModel
 @{
-	ViewData["Title"] = "Register Page";
+    ViewData["Title"] = "Register Page";
 }
 
-<!-- ================ start banner area ================= -->
-<section class="blog-banner-area" id="category">
-	<div class="container h-100">
-		<div class="blog-banner">
-			<div class="text-center">
-				<h1>Register</h1>
-				<nav aria-label="breadcrumb" class="banner-breadcrumb">
-					<ol class="breadcrumb">
-						<li class="breadcrumb-item"><a href="~/">Home</a></li>
-						<li class="breadcrumb-item active" aria-current="page">Register</li>
-					</ol>
-				</nav>
-			</div>
-		</div>
-	</div>
+<!-- ================ Start Banner Area ================= -->
+<section class="banner-area text-center py-5 bg-light">
+    <div class="container">
+        <h1 class="mb-3">Register</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb justify-content-center bg-transparent">
+                <li class="breadcrumb-item"><a href="~/">Home</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Register</li>
+            </ol>
+        </nav>
+    </div>
 </section>
-<!-- ================ end banner area ================= -->
-<!--================Login Box Area =================-->
-<section class="login_box_area section-margin">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-6">
-				<div class="login_box_img">
-					<div class="hover">
-						<h4>Already have an account?</h4>
-						<p>There are advances being made in science and technology everyday, and a good example of this is the</p>
-						<a class="button button-account" href="~/Auth/Login">Login Now</a>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-6">
-				<div class="login_form_inner register_form_inner">
-					<h3>Create an account</h3>
-					<form class="row login_form" asp-action="Register" method="post" id="register_form">
-						<div class="col-md-12 form-group">
-							<input type="text" class="form-control" id="name" asp-for="Fullname" placeholder="Full Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'">
-							<span asp-validation-for="Fullname" class="text-danger"></span>
-						</div>
-						<div class="col-md-12 form-group">
-							<input type="text" class="form-control" id="email" asp-for="Email" placeholder="Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address'">
-							<span asp-validation-for="Email" class="text-danger"></span>
-						</div>
-						<div class="col-md-12 form-group">
-							<input type="text" class="form-control" id="password" asp-for="Password" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
-							<span asp-validation-for="Password" class="text-danger"></span>
-						</div>
-						<div class="col-md-12 form-group">
-							<input type="text" class="form-control" id="confirmPassword" asp-for="ConfirmPassword" placeholder="Confirm Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Confirm Password'">
-							<span asp-validation-for="ConfirmPassword" class="text-danger"></span>
-						</div>
-						@* <div class="col-md-12 form-group">
-							<div class="creat_account">
-								<input type="checkbox" id="f-option2" name="selector">
-								<label for="f-option2">Keep me logged in</label>
-							</div>
-						</div> *@
-						<div class="col-md-12 form-group">
-							<button type="submit" value="submit" class="button button-register w-100">Register</button>
-						</div>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
+<!-- ================ End Banner Area ================= -->
+<!--================ Register Box Area =================-->
+<section class="register-box-area py-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-5">
+                <div class="card shadow-sm border-0">
+                    <div class="card-body p-4">
+                        <h3 class="text-center mb-4">Create an Account</h3>
+                        <form asp-action="Register" method="post" class="needs-validation" novalidate>
+                            <div class="mb-3">
+                                <label asp-for="Fullname" class="form-label">Full Name</label>
+                                <input type="text" asp-for="Fullname" class="form-control" placeholder="Enter your full name" required>
+                                <span asp-validation-for="Fullname" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Email" class="form-label">Email Address</label>
+                                <input type="text" asp-for="Email" class="form-control" placeholder="Enter your email" required>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Password" class="form-label">Password</label>
+                                <input type="password" asp-for="Password" class="form-control" placeholder="Enter your password" required>
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="ConfirmPassword" class="form-label">Confirm Password</label>
+                                <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Confirm your password" required>
+                                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                            </div>
+                            <button type="submit" class="btn btn-primary w-100">Register</button>
+                        </form>
+                        <div class="text-center mt-4">
+                            <p>Already have an account? <a href="~/Auth/Login" class="text-primary">Login Now</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
-<!--================End Login Box Area =================-->
+<!--================ End Register Box Area =================-->
