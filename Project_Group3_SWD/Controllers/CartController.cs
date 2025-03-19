@@ -237,11 +237,17 @@ namespace Project_Group3_SWD.Controllers
 				cod_amount, service_id, items);
 			if (orderJson["code"]?.ToObject<int>() == 200)
 			{
+                Order order = new Order();
+
                 User u = HttpContext.Session.GetObjectFromSession<User>("user");
                 if (u != null)
                 {
-                    Order order = new Order();
                     order.UserId = u.Id;
+                }
+                //else
+                //{
+                //    return RedirectToAction("Login", "Auth");
+                //}
                     List<Item> cartUser = HttpContext.Session.GetObjectFromSession<List<Item>>("cart");
                     order.TotalAmountBefore = Math.Round((decimal)cartUser.Sum(x => x.Quantity * x.Product.Price), 2);
                     order.OrderDate = DateTime.Now;
@@ -257,11 +263,7 @@ namespace Project_Group3_SWD.Controllers
                     HttpContext.Session.Remove("cart");
                     TempData["SuccessMessage"] = "Order successful!";
                     return Redirect("/");
-                }
-                else
-                {
-                    return RedirectToAction("Login", "Auth");
-                }
+                
             }
             return BadRequest(new { message = "Failed to create order", error = orderJson["message"] });
 		}
@@ -289,10 +291,28 @@ namespace Project_Group3_SWD.Controllers
 		public IActionResult PaymentCallbackVnpay()
 		{
 			var response = _vnPayService.PaymentExecute(Request.Query) as PaymentResponseModel;
+            Console.WriteLine("vaoday1");
 
-			if (response != null && response.Success)
+            if (response != null && response.Success)
 			{
-				return RedirectToAction("PaymentSuccess", "Cart"); // Điều hướng đến Cart/PaymentSuccess
+                Console.WriteLine("vaoday2");
+                Console.WriteLine(response.VnPayResponseCode);
+				if(response.VnPayResponseCode == "24")
+				{
+                    Console.WriteLine("vaoday3");
+                    TempData["ErrorMessage"] = $"Payment fail!";
+                    return Redirect("/");
+				}
+				else
+				{
+                    Console.WriteLine("vaoday4");
+                    return RedirectToAction("PaymentSuccess", "Cart");
+                }
+                
+			}
+			else
+			{
+                
 			}
 
 			TempData["ErrorMessage"] = $"Giao dịch thất bại! Mã lỗi: {response?.VnPayResponseCode}";

@@ -38,7 +38,6 @@ namespace Project_Group3_SWD.Controllers
 
                 if (user != null)
                 {
-                    // Lưu đối tượng user vào session
                     HttpContext.Session.SetObjectAsSession("user", user);
 					if (user.RoleId == 1)
 					{
@@ -50,13 +49,11 @@ namespace Project_Group3_SWD.Controllers
                     }
 					else
 					{
-						// Đăng nhập thành công
 						return RedirectToAction("Index", "Home");
 					}
                 }
                 else
                 {
-                    // Đăng nhập thất bại
                     ViewBag.ErrorMessage = "Invalid login attempt.";
                 }
             }
@@ -75,18 +72,14 @@ namespace Project_Group3_SWD.Controllers
 		{
 			if (ModelState.IsValid)
 			{
-				// Kiểm tra email có tồn tại chưa
 				var existingUser = await _userService.GetUserByEmailAsync(model.Email);
 				if (existingUser != null)
 				{
-					// Thêm lỗi vào ModelState để hiển thị thông báo lỗi
 					ModelState.AddModelError("Email", "Email already in use.");
 
-					// Trả lại view và giữ lại dữ liệu đã nhập
 					return View(model);
 				}
 
-				// Tạo người dùng mới
 				var user = new User
 				{
 					Fullname = model.Fullname,
@@ -100,10 +93,8 @@ namespace Project_Group3_SWD.Controllers
 
 				if (result)
 				{
-					// Lưu đối tượng user vào session
 					HttpContext.Session.SetObjectAsSession("user", user);
 
-					// Đăng nhập thành công
 					return RedirectToAction("Index", "Home");
 				}
 
@@ -115,10 +106,8 @@ namespace Project_Group3_SWD.Controllers
 
 		public IActionResult Logout()
         {
-            // Xóa thông tin người dùng khỏi session
             HttpContext.Session.Remove("user");
 
-            // Chuyển hướng về trang login
             return RedirectToAction("Login", "Auth");
         }
 
@@ -129,7 +118,6 @@ namespace Project_Group3_SWD.Controllers
             return Challenge(properties, GoogleDefaults.AuthenticationScheme);
         }
 
-        // Handle Google Authentication Response
         public async Task<IActionResult> GoogleResponse()
         {
             var authenticateResult = await HttpContext.AuthenticateAsync(CookieAuthenticationDefaults.AuthenticationScheme);
@@ -156,17 +144,16 @@ namespace Project_Group3_SWD.Controllers
                 {
                     Fullname = name ?? "Google User",
                     Email = email,
-                    Password = "", // No password needed for Google login
-                    RoleId = 3, // Default role
+                    Password = "",
+                    RoleId = 3,
                     Status = true
                 };
 
-                //set up email subject and body
                 string subject = EmailConstants.GMAIL_REGISTER_EMAIL_SUBJECT;
                 string body = string.Format(
                     EmailConstants.GMAIL_REGISTER_EMAIL_BODY,
-                    user.Fullname,               // {0} -> User’s Name
-                    user.Email,                  // {1} -> User's Google Email
+                    user.Fullname,
+                    user.Email,
                     ""             
                 );
 
