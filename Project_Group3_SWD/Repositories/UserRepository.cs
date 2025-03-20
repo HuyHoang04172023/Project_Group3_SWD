@@ -13,7 +13,7 @@ namespace Project_Group3_SWD.Repositories
         }
         public async Task<User> GetUserByEmailAndPassAsync(string email, string pass)
         {
-            return await _context.Users.FirstOrDefaultAsync(u => u.Email == email && u.Password == pass && u.Status == true);
+            return await _context.Users.FirstOrDefaultAsync(u => u.Email == email && u.Password == pass);
         }
 
 		public async Task<User> GetUserByEmailAsync(string email)
