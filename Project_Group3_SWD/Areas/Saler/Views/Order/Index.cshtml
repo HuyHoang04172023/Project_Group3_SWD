@@ -11,6 +11,7 @@
 	<table class="table">
         <thead>
             <tr>
+                <th scope="col">OrderCode</th>
                 <th scope="col">ToName</th>
                 <th scope="col">ToPhone</th>
                 <th scope="col">ToAddress</th>
@@ -24,6 +25,9 @@
             @foreach (var item in orders)
             {
                 <tr>
+                    <td>
+                        @item.OrderCode
+                    </td>
                     <td>
                         @item.ToName
                     </td>
@@ -43,7 +47,7 @@
                         @item.Status
                     </td>
                     <td>
-                        <button onclick="window.location.href='@Url.Action("Detail", "Order", new { orderCode = @item.OrderCode})'">
+                        <button class=" btn btn-primary mt-1" onclick="window.location.href='@Url.Action("Detail", "Order", new { area = "Saler" ,orderCode = @item.OrderCode})'">
                             Detail
                         </button>
                     </td>
@@ -53,5 +57,14 @@
         </tbody>
 
 	</table>
+
+    <script>
+           var message = "@ViewBag.Message";
+        window.onload = function () {
+            if (message) {
+                alert(message);
+            }
+        };
+    </script>
 
 </div>

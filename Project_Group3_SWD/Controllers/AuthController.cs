@@ -1,4 +1,5 @@
-﻿using Project_Group3_SWD.Extensions;
+﻿
+using Project_Group3_SWD.Extensions;
 using Project_Group3_SWD.Models;
 using Project_Group3_SWD.Services;
 using Project_Group3_SWD.ViewModels;
@@ -12,21 +13,21 @@ using Microsoft.AspNetCore.Authentication.Google;
 
 namespace Project_Group3_SWD.Controllers
 {
-    public class AuthController : Controller
-    {
-        private readonly IUserService _userService;
-        private readonly IEmailServices _emailService;
+	public class AuthController : Controller
+	{
+		private readonly IUserService _userService;
+		private readonly IEmailServices _emailService;
 
-        public AuthController(IUserService userService, IEmailServices emailService)
-        {
-            _userService = userService;
-            _emailService = emailService;
-        }
+		public AuthController(IUserService userService, IEmailServices emailService)
+		{
+			_userService = userService;
+			_emailService = emailService;
+		}
 
-        public IActionResult Login()
-        {
-            return View();
-        }
+		public IActionResult Login()
+		{
+			return View();
+		}
 
 		[HttpPost]
         [ValidateAntiForgeryToken]
@@ -108,8 +109,9 @@ namespace Project_Group3_SWD.Controllers
         {
             HttpContext.Session.Remove("user");
 
-            return RedirectToAction("Login", "Auth");
-        }
+			// Chuyển hướng về trang login
+			return RedirectToAction("Login", "Auth");
+		}
 
         public IActionResult LoginWithGoogle()
         {

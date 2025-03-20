@@ -1,6 +1,7 @@
 ﻿@using Project_Group3_SWD.ViewModels;
 @{
     OrderGHNViewModel item = ViewBag.Order as OrderGHNViewModel ?? new OrderGHNViewModel();
+    Console.WriteLine(item);
 }
 <!-- ================ start banner area ================= -->
 <section class="blog-banner-area" id="category">
@@ -65,6 +66,28 @@
                         }
                     </tbody>
                 </table>
+                <form asp-action="UpdateNote" asp-controller="Order" asp-area="Saler" method="post">
+                    <div class="mb-3">
+                        <label for="orderNote" class="form-label fw-bold">Ghi chú đơn hàng:</label>
+                        <textarea id="orderNote" name="note" class="form-control" rows="4"
+                                  cols="100" @(item.Status == "cancel" ? "disabled" : "")>@item.Note</textarea>
+                    </div>
+
+                    <input type="hidden" name="orderCode" value="@item.OrderCode" />
+
+                    @if (item.Status != "cancel")
+                    {
+                        <button type="submit" class="btn btn-primary mt-1">Update note</button>
+                    }
+                </form>
+                <form asp-action="CancelOrder" asp-controller="Order" asp-area="Saler" method="post">
+                    <input type="hidden" name="orderCode" value="@item.OrderCode" />
+                    @if (item.Status != "cancel")
+                    {
+                        <button type="submit" class="btn btn-danger mt-1">Cancel</button>
+                    }
+
+                </form>
             </div>
         </div>
     </div>

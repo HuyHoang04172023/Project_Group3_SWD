@@ -6,21 +6,21 @@
 }
 
 <!-- ================ start banner area ================= -->
-<section class="blog-banner-area" id="category">
-    <div class="container h-100">
-        <div class="blog-banner">
-            <div class="text-center">
-                <h1>Shop Category</h1>
-                <nav aria-label="breadcrumb" class="banner-breadcrumb">
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="~/">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Shop Category</li>
-                    </ol>
-                </nav>
-            </div>
-        </div>
-    </div>
-</section>
+  <section class="blog-banner-area" id="category">  
+      <div class="container h-100">  
+          <div class="blog-banner">  
+              <div class="text-center">  
+                  <h1>Shop Category</h1>  
+                  <nav aria-label="breadcrumb" class="banner-breadcrumb">  
+                      <ol class="breadcrumb">  
+                          <li class="breadcrumb-item"><a href="~/">Home</a></li>  
+                          <li class="breadcrumb-item active" aria-current="page">Shop Category</li>  
+                      </ol>  
+                  </nav>  
+              </div>  
+          </div>  
+      </div>  
+  </section>  
 <!-- ================ end banner area ================= -->
 <!-- ================ category section start ================= -->
 <section class="section-margin--small mb-5">
@@ -34,10 +34,10 @@
                         <form action="#">
                             <ul>
                                 @foreach (var brand in ViewBag.Brands as IEnumerable<Project_Group3_SWD.Models.Brand>)
-							{
+                                {
                                     <li class="filter-list"><input class="pixel-radio" type="radio" id="brand-@brand.Id" name="brand" value="@brand.Id" @(brand.Id == -1 ? "checked" : "")><label for="brand-@brand.Id">@brand.Name<span>(@brand.Products.Count)</span></label></li>
-                            }
-                               
+                                }
+
                             </ul>
                         </form>
                     </div>
@@ -45,11 +45,11 @@
                         <div class="head">Categories</div>
                         <form action="#">
                             <ul>
-                                 @foreach (var category in ViewBag.Categories as IEnumerable<Project_Group3_SWD.Models.Category>)
-							{
+                                @foreach (var category in ViewBag.Categories as IEnumerable<Project_Group3_SWD.Models.Category>)
+                                {
                                     <li class="filter-list"><input class="pixel-radio" type="radio" id="category-@category.Id" name="category" value="@category.Id" @(category.Id == -1 ? "checked" : "")><label for="category-@category.Id">@category.Name<span>(@category.Products.Count)</span></label></li>
-                            }
-                                
+                                }
+
                             </ul>
                         </form>
                     </div>
@@ -80,11 +80,11 @@
                         </select>
                     </div>
                     <div class="sorting mr-auto">
-                        @* <select>
+                         <select>
                             <option value="1">Show 12</option>
                             <option value="1">Show 12</option>
                             <option value="1">Show 12</option>
-                        </select> *@
+                        </select> 
                     </div>
                     <div>
                         <div class="input-group filter-bar-search">
@@ -112,7 +112,8 @@
                                                 <li>
                                                     <a asp-controller="Cart" asp-action="Add" asp-route-id="@product.Id"><button><i class="ti-shopping-cart"></i></button></a>
 
-                            </li>}
+                                                </li>
+                                            }
                                             <li><button><i class="ti-heart"></i></button></li>
                                         </ul>
                                     </div>
@@ -164,7 +165,7 @@
 </section>
 <!-- ================ category section end ================= -->
 <!-- ================ top product area start ================= -->
-@* <section class="related-product-area">
+ <section class="related-product-area">
     <div class="container">
         <div class="section-intro pb-60px">
             <p>Popular Item in the market</p>
@@ -276,7 +277,7 @@
             </div>
         </div>
     </div>
-</section> *@
+</section> 
 <!-- ================ top product area end ================= -->
 <!-- ================ Subscribe section start ================= -->
 <section class="subscribe-position">
@@ -305,7 +306,7 @@
 @section Scripts {
 
 
-<script>
+    <script>
         $(document).ready(function () {
             var minPrice = 0;
             var maxPrice = 1000;
@@ -354,6 +355,6 @@
                 });
             }
         });
-</script>
+    </script>
 }
 
