@@ -46,7 +46,10 @@ namespace Project_Group3_SWD.Controllers
                         {
                             return RedirectToAction("Index", "Brand", new { area = "Admin" });
                         }
-                        //More roles
+                        else if (user.RoleId == 2)
+                        {
+                            return RedirectToAction("Index", "Order", new { area = "Saler" });
+                        }
                         else
                         {
                             return RedirectToAction("Index", "Home");
@@ -171,7 +174,7 @@ namespace Project_Group3_SWD.Controllers
             return finalRoleId switch
             {
                 1 => RedirectToAction("Index", "Brand", new { area = "Admin" }),
-                //More roles
+                2 => RedirectToAction("Index", "Order", new { area = "Saler" }),
                 _ => RedirectToAction("Index", "Home")
             };
         }

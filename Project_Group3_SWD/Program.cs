@@ -6,6 +6,7 @@ using Project_Group3_SWD.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.Google;
+using CloudinaryDotNet;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -70,6 +71,16 @@ builder.Services.AddSession(options =>
 	options.Cookie.HttpOnly = true;
 	options.Cookie.IsEssential = true;
 });
+
+// Configure Cloudinary
+var cloudinarySettings = builder.Configuration.GetSection("Cloudinary");
+var cloudinaryAccount = new Account(
+    cloudinarySettings["CloudName"],
+    cloudinarySettings["ApiKey"],
+    cloudinarySettings["ApiSecret"]
+);
+var cloudinary = new Cloudinary(cloudinaryAccount);
+builder.Services.AddSingleton(cloudinary);
 
 var app = builder.Build();
 
