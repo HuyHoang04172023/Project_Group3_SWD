@@ -1,5 +1,4 @@
-﻿using Project_Group3_SWD.DTOs.Order;
-using Project_Group3_SWD.Models;
+﻿using Project_Group3_SWD.Models;
 using Project_Group3_SWD.ViewModels;
 using Project_Group3_SWD.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -44,7 +43,7 @@ namespace Project_Group3_SWD.Repositories
         {
             try
             {
-                var orderDTO = new OrderDTO
+                var orderDTO = new OrderViewModel
                 {
                     PaymentTypeId = "2", // Assuming PaymentTypeId is not in Order or Item
                     Note = order.Note ?? "Tintest 123",
@@ -78,7 +77,7 @@ namespace Project_Group3_SWD.Repositories
                     ServiceTypeId = "20308", // Assuming ServiceTypeId is not in Order or Item
                     Coupon = null, // Assuming Coupon is not in Order or Item
                     PickShift = new List<String> { "20308" }, // Assuming PickShift is not in Order or Item
-                    Items = cart.Select(item => new OrderItemDTO
+                    Items = cart.Select(item => new OrderItemViewModel
                     {
                         Name = item.Product.Name,
                         Code = item.Product.Id.ToString(), // Assuming Code is the Product Id
@@ -88,7 +87,7 @@ namespace Project_Group3_SWD.Repositories
                         Width = "20308", // Assuming Width is not in Item
                         Height = "20308", // Assuming Height is not in Item
                         Weight = "20308", // Assuming Weight is not in Item
-                        Category = new ItemCategoryDTO
+                        Category = new ItemCategoryViewModel
                         {
                             Level1 = "Áo" // Assuming Category is not in Item
                         }

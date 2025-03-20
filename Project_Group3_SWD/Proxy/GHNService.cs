@@ -285,6 +285,7 @@ namespace Project_Group3_SWD.Proxy
 					Status = data.GetProperty("status").ToString(),
 					CodAmount = data.GetProperty("cod_amount").GetDecimal(),
 					RequiredNote = data.GetProperty("required_note").GetString() ?? "",
+                    Note = data.GetProperty("note").GetString() ?? "",
 					ProductGHNs = GetProducts(data.GetProperty("items")) ?? new List<ProductGHNViewModel>()
 				};
 			}
