@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Project_Group3_SWD.Models;
+using CloudinaryDotNet;
+using CloudinaryDotNet.Actions;
 
 namespace Project_Group3_SWD.Areas.Admin.Controllers
 {
@@ -13,10 +15,12 @@ namespace Project_Group3_SWD.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly WebkinhdoanhquanaoContext _context;
+        private readonly Cloudinary _cloudinary;
 
-        public ProductController(WebkinhdoanhquanaoContext context)
+        public ProductController(WebkinhdoanhquanaoContext context, Cloudinary cloudinary)
         {
             _context = context;
+            _cloudinary = cloudinary;
         }
 
         // GET: Admin/Product
@@ -63,29 +67,31 @@ namespace Project_Group3_SWD.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Handle file upload
                 if (uploadPhoto != null && uploadPhoto.Length > 0)
                 {
-                    // Get the file extension
-                    var extension = Path.GetExtension(uploadPhoto.FileName);
-                    var fileName = Guid.NewGuid().ToString() + extension;
+                    var uploadResult = new ImageUploadResult();
 
-                    // Set the file path (you can modify the path as needed)
-                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "img/product", fileName);
-
-                    // Save the file to the specified path
-                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    using (var stream = uploadPhoto.OpenReadStream())
                     {
-                        await uploadPhoto.CopyToAsync(stream);
+                        var uploadParams = new ImageUploadParams()
+                        {
+                            File = new FileDescription(uploadPhoto.FileName, stream),
+                            Folder = "KIEN" // Folder in Cloudinary
+                        };
+                        uploadResult = await _cloudinary.UploadAsync(uploadParams);
                     }
 
-                    // Set the ImageUrl to the path of the saved image
-                    product.ImageUrl = "img/product/" + fileName;
+                    if (uploadResult.SecureUrl != null)
+                    {
+                        product.ImageUrl = uploadResult.SecureUrl.AbsoluteUri;
+                    }
                 }
+
                 _context.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
             ViewData["BrandId"] = new SelectList(_context.Brands, "Id", "Name", product.BrandId);
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name", product.CategoryId);
             return View(product);
