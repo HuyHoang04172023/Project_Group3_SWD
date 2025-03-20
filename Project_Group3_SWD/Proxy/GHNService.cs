@@ -14,8 +14,8 @@ namespace Project_Group3_SWD.Proxy
     public class GHNService
     {
         private readonly HttpClient _httpClient;
-        private readonly string _apiToken = "acda664f-f3f6-11ef-bb13-2a342a4da1fb";
-        private readonly string _shopId = "196050";
+        private readonly string _apiToken = "fa19bc40-fc2a-11ef-82e7-a688a46b55a3";
+        private readonly string _shopId = "196112";
 
         public GHNService()
         {
@@ -278,6 +278,7 @@ namespace Project_Group3_SWD.Proxy
 				{
 					CreateDate = createdDate,
 					FinishDate = finishDate,
+                    OrderCode = data.GetProperty("order_code").GetString() ?? "",
 					ToName = data.GetProperty("to_name").GetString() ?? "",
 					ToPhone = data.GetProperty("to_phone").GetString() ?? "",
 					ToAddress = data.GetProperty("to_address").GetString() ?? "",
@@ -315,6 +316,37 @@ namespace Project_Group3_SWD.Proxy
 				});
 			}
 			return results;
+		}
+
+		public async Task UpdateOrderNoteById(string orderCode, string note)
+		{
+			var requestData = new StringContent(JsonSerializer.Serialize(new
+			{
+				note = note,
+				order_code = orderCode
+
+			}), Encoding.UTF8, "application/json");
+
+			HttpResponseMessage response = await _httpClient.PostAsync("https://dev-online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/update", requestData);
+			if (response.StatusCode == HttpStatusCode.OK)
+			{
+				string result = await response.Content.ReadAsStringAsync();
+				JsonElement doc = JsonDocument.Parse(result).RootElement;
+			}
+		}
+
+		public async Task CancelOrderById(string orderCode)
+		{
+			var requestData = new StringContent(JsonSerializer.Serialize(new
+			{
+				order_codes = new[] { orderCode }
+			}), Encoding.UTF8, "application/json");
+			HttpResponseMessage response = await _httpClient.PostAsync("https://dev-online-gateway.ghn.vn/shiip/public-api/v2/switch-status/cancel", requestData);
+			if (response.StatusCode == HttpStatusCode.OK)
+			{
+				string result = await response.Content.ReadAsStringAsync();
+				JsonElement doc = JsonDocument.Parse(result).RootElement;
+			}
 		}
 	}
 }

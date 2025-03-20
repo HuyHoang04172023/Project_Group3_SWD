@@ -168,7 +168,7 @@ namespace Project_Group3_SWD.Controllers
 					EmailConstants.GMAIL_REGISTER_EMAIL_BODY,
 					user.Fullname,               // {0} -> User’s Name
 					user.Email,                  // {1} -> User's Google Email
-					""             // {2} -> Set Password Link
+					""
 				);
 
 				await _emailService.SendEmail(email, subject, body);
@@ -181,7 +181,7 @@ namespace Project_Group3_SWD.Controllers
 
 		private IActionResult RedirectToUserDashboard(int? roleId)
 		{
-			int finalRoleId = roleId ?? 3; // Default role to 3 if null
+			int finalRoleId = roleId ?? 3;
 
 			return finalRoleId switch
 			{

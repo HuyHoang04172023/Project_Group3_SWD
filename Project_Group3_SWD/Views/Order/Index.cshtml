@@ -27,6 +27,7 @@
                 <table class="table">
                     <thead>
                         <tr>
+                            <th scope="col">OrderCode</th>
                             <th scope="col">ToName</th>
                             <th scope="col">ToPhone</th>
                             <th scope="col">ToAddress</th>
@@ -40,6 +41,9 @@
                         @foreach (var item in orders)
                         {
                             <tr>
+                                <td>
+                                    @item.OrderCode
+                                </td>
                                 <td>
                                     @item.ToName
                                 </td>

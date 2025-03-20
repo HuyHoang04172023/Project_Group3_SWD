@@ -49,13 +49,17 @@ namespace Project_Group3_SWD.Areas.Saler.Controllers
 			_orderService.UpdateOrder(order);
 			return RedirectToAction("Index");
 		}
-
 		[HttpPost]
-		public IActionResult UpdateNote(int id, string note = " ")
+		public async Task<IActionResult> UpdateNote(string orderCode, string note = " ")
 		{
-			var order = _orderService.GetById(id);
-			order.Note = note;
-			_orderService.UpdateOrder(order);
+			await _ghnService.UpdateOrderNoteById(orderCode, note);
+			ViewBag.Message = "Update note with order code " + orderCode + " successfully";
+			return RedirectToAction("Index");
+		}
+		[HttpPost]
+		public async Task<IActionResult> CancelOrder(string orderCode)
+		{
+			await _ghnService.CancelOrderById(orderCode);
 			return RedirectToAction("Index");
 		}
 
